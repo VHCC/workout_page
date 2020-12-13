@@ -1849,7 +1849,7 @@ const activities = [
     "name": "2016-08-07 \u4e0a\u5348 \u5f92\u6b65",
     "distance": 7246.030223872037,
     "moving_time": "2:48:11",
-    "type": "Ride",
+    "type": "Hike",
     "start_date": "2016-08-07 11:15:36",
     "start_date_local": "2016-08-07 11:15:36",
     "location_country": "\u68a7\u6850\u5c71\u7535\u89c6\u5854, \u501a\u5929\u5f84, \u5751\u80cc, \u957f\u5cad\u6751, \u7f57\u6e56\u533a, \u5e7f\u4e1c\u7701, 518000, China \u4e2d\u56fd",
@@ -3000,21 +3000,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1498241980000,
-    "name": "2017-06-23 \u665a\u4e0a \u9a91\u884c",
-    "distance": 14790.182810647388,
-    "moving_time": "1:32:17",
-    "type": "Ride",
-    "start_date": "2017-06-23 18:19:40",
-    "start_date_local": "2017-06-23 18:19:40",
-    "location_country": "\u4e09\u73af\u4e1c\u8def, \u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, 516002, China \u4e2d\u56fd",
-    "summary_polyline": "{`blC{oryTrBlD?p@wNbKo@?_FhG}BhEiFfZqBfHuR~Zw[rd@qPtzAObi@lA`ZbDtMbJfYni@sMmCgDSZd@dBrAIu@TfZja@hCvBvZmUC~BgAQvAt@pLpLbLjNzOl[^nBk@zBz@v@zDwBvB_C`HkDfCcCvpCaw@vHkKh@QS^Z_@wBoFzAiAn@qAxTeOtFcDVX~@uAVaB",
-    "average_heartrate": null,
-    "average_speed": 2.12744884804106,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1498320665000,
     "name": "2017-06-24 \u4e0b\u5348 \u9a91\u884c",
     "distance": 1860.0460362738168,
@@ -3027,7 +3012,7 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 7.2094807607512275,
     "source": "xingzhe",
-    "streak": 2
+    "streak": 1
   },
   {
     "run_id": 1498330431000,
@@ -3042,7 +3027,7 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 7.452738938805927,
     "source": "xingzhe",
-    "streak": 2
+    "streak": 1
   },
   {
     "run_id": 1499710929000,
