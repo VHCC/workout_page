@@ -5297,7 +5297,7 @@ const activities = [
   {
     "run_id": 1603715042000,
     "name": "running from Garmin Connect",
-    "distance": 2834.1628671364424,
+    "distance": 2834.162867136442,
     "moving_time": "0:16:34",
     "type": "Run",
     "start_date": "2020-10-26 12:24:02",
@@ -5305,7 +5305,7 @@ const activities = [
     "location_country": "\u6df1\u5733\u5927\u5b66, 3688, \u5357\u6d77\u5927\u9053, \u6df1\u5733\u5927\u5b66\u5357\u6821\u533a, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518060, China \u4e2d\u56fd",
     "summary_polyline": "amohCk|kvTbG`CzCOt@|BQjBRbDw@tFJ|H}AlI@jD_ArFyArC}Av@H\\m@C]fAjAn@k@dEp@rCYxAi@f@TxAwA`GL`Bi@WExDs@jEkC~HlAhF@fDy@xAuJG",
     "average_heartrate": 150.0,
-    "average_speed": 2.851270490076904,
+    "average_speed": 2.8512704900769035,
     "source": "Garmin Connect",
     "streak": 2
   },
@@ -5387,7 +5387,7 @@ const activities = [
   {
     "run_id": 1607156787000,
     "name": "cycling from Garmin Connect",
-    "distance": 22648.35994448094,
+    "distance": 22648.359944480944,
     "moving_time": "0:59:36",
     "type": "Ride",
     "start_date": "2020-12-05 08:26:27",
@@ -5396,6 +5396,21 @@ const activities = [
     "summary_polyline": "qbclCi{ryT}A}CqKaJeKuLeA?{IpGcRrUeBrEMbBsKh`@gCdHg]{K_MwA}LgCe_@cAmi@xBup@{AaVuDeOaFiTuOeCcJkCmUe@qAwBgACyB`CaJlM_Z_AcGiBaF~AkHUuAPgA|K_RlH}RjN{YbHuL~GiI|HqN}G`MqIhK}FpJKPyNtZaIjTqKlQOv@XzB_B~GfBnE~@jGuNx[cBdIV~AhBr@l@dAtCfVrCnJxUjPjN`EjVhDdp@dBth@yBz_@hAvZ|ErUdIrEz@vDkJbOqh@lQqThJiGj@BhIhKhKzHlEdFdKkIf@L|FlJj@GrCaC",
     "average_heartrate": null,
     "average_speed": 6.2012187411554995,
+    "source": "Garmin Connect",
+    "streak": 1
+  },
+  {
+    "run_id": 1607767572000,
+    "name": "running from Garmin Connect",
+    "distance": 3605.544729299191,
+    "moving_time": "0:26:03",
+    "type": "Run",
+    "start_date": "2020-12-12 10:06:12",
+    "start_date_local": "2020-12-12 18:06:12",
+    "location_country": "\u540e\u6d77\u6ee8\u8def, \u540e\u6d77, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, China \u4e2d\u56fd",
+    "summary_polyline": "wtlhC_vkvTuAtCmAf@?hCYtBi@`@e@|I}@~CSbE{@BPv@UpDhAhEI~AsAjDPrDs@~CiGs@{LuEiBLH_AeJ}Ay@~AoB^mAlA{A~FuCdAV^JpGwBfFf@lAw@L_@rDcAlAShAA~CtAnIw@d@kJbA{EbB",
+    "average_heartrate": 151.0,
+    "average_speed": 2.3068104474083118,
     "source": "Garmin Connect",
     "streak": 1
   }
