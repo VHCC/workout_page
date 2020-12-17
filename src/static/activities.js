@@ -6745,7 +6745,7 @@ const activities = [
     "location_country": "\u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, 516002, China \u4e2d\u56fd",
     "summary_polyline": "qbclCi{ryT}A}CqKaJeKuLeA?{IpGcRrUeBrEMbBsKh`@gCdHg]{K_MwA}LgCe_@cAmi@xBup@{AaVuDeOaFiTuOeCcJkCmUe@qAwBgACyB`CaJlM_Z_AcGiBaF~AkHUuAPgA|K_RlH}RjN{YbHuL~GiI|HqN}G`MqIhK}FpJKPyNtZaIjTqKlQOv@XzB_B~GfBnE~@jGuNx[cBdIV~AhBr@l@dAtCfVrCnJxUjPjN`EjVhDdp@dBth@yBz_@hAvZ|ErUdIrEz@vDkJbOqh@lQqThJiGj@BhIhKhKzHlEdFdKkIf@L|FlJj@GrCaC",
     "average_heartrate": null,
-    "average_speed": 6.2012187411554995,
+    "average_speed": 6.33343398894881,
     "source": "Garmin Connect",
     "streak": 1
   },
