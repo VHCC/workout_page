@@ -4174,7 +4174,7 @@ const activities = [
     "name": "2017-02-06 \u4e0a\u5348 \u5f92\u6b65",
     "distance": 1594.6408818189948,
     "moving_time": "0:40:05",
-    "type": "Ride",
+    "type": "Hike",
     "start_date": "2017-02-06 11:51:25",
     "start_date_local": "2017-02-06 11:51:25",
     "location_country": "\u60e0\u4e1c\u53bf, \u897f\u6d8c\u6751, \u5e7f\u4e1c\u7701, China \u4e2d\u56fd",
@@ -4785,21 +4785,6 @@ const activities = [
     "streak": 3
   },
   {
-    "run_id": 1304383043,
-    "name": "Night Ride",
-    "distance": 857.9,
-    "moving_time": "0:17:11",
-    "type": "Ride",
-    "start_date": "2017-12-06 13:12:04+00:00",
-    "start_date_local": "2017-12-06 21:12:04",
-    "location_country": "\u4e2d\u56fd",
-    "summary_polyline": "sbblCm~ryT|BYaEdA",
-    "average_heartrate": 152.4,
-    "average_speed": 0.832,
-    "source": "Strava",
-    "streak": 1
-  },
-  {
     "run_id": 1512922639000,
     "name": "2017-12-10 afternoon Ride",
     "distance": 25357.753130164314,
@@ -4827,21 +4812,6 @@ const activities = [
     "average_heartrate": 161.0,
     "average_speed": 6.300021244597267,
     "source": "Garmin Connect",
-    "streak": 1
-  },
-  {
-    "run_id": 1314785938,
-    "name": "Night Ride",
-    "distance": 507.2,
-    "moving_time": "0:11:39",
-    "type": "Ride",
-    "start_date": "2017-12-15 13:24:24+00:00",
-    "start_date_local": "2017-12-15 21:24:24",
-    "location_country": "\u4e2d\u56fd",
-    "summary_polyline": "s`blC__syT_@s@",
-    "average_heartrate": 160.0,
-    "average_speed": 0.726,
-    "source": "Strava",
     "streak": 1
   },
   {
@@ -6656,21 +6626,6 @@ const activities = [
     "summary_polyline": "cmphCahhvT}EF}GiBYaAYeM}@Ne@c@FgNI}@_B{BVo@~A@bBe@v@wAr@wGg@aCiEuAqA`@mBnB{DC_B|BwA~DJbBdBjBjBIj@aBbBa@zBdBxCE`CsD`@sFg@cBaEaByBx@cBzA}D?wCxFQlBfApBxBt@nCmDp@LPl@zD~@rCmAx@_CN}CU{B_CuB}@MoAPyCrB{CM{@XwBfESrEj@bApAh@dAWnA{ApAUfDrAjAF",
     "average_heartrate": 148.0,
     "average_speed": 2.344403470468545,
-    "source": "Garmin Connect",
-    "streak": 1
-  },
-  {
-    "run_id": 1594729590000,
-    "name": "running from Garmin Connect",
-    "distance": 3994.0642988656564,
-    "moving_time": "0:15:36",
-    "type": "Run",
-    "start_date": "2020-07-14 12:26:30",
-    "start_date_local": "2020-07-14 20:26:30",
-    "location_country": "\u5fae\u8f6f\u79d1\u901a\u5927\u53a6, \u7ca4\u5174\u516d\u9053, \u6df1\u5733\u5927\u5b66\u5357\u6821\u533a, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, China \u4e2d\u56fd",
-    "summary_polyline": "yiohCs~kvTEX~@j@xBp@fCHSrEx@xDfAlB{AbFBtAbAYrAoBaCsA_FvJ[x@t@bFi@xBp]tI~HlA_d@|BgCp@gEPrBvC[dCu@rA[tFqA`AtBbADtAeApC_B~A~@Ar@f@w@i@]RFpAc@~@R`BaAlAcAFBlA",
-    "average_heartrate": 152.0,
-    "average_speed": 4.267162712463308,
     "source": "Garmin Connect",
     "streak": 1
   },
