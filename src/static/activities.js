@@ -510,21 +510,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1437296567000,
-    "name": "cycling from xingzhe",
-    "distance": 38112.111568381624,
-    "moving_time": "1:34:19",
-    "type": "Ride",
-    "start_date": "2015-07-19 09:02:47",
-    "start_date_local": "2015-07-19 09:02:47",
-    "location_country": "\u91cd\u5e86\u7406\u5de5\u5927\u5b66, \u79d1\u7814\u7acb\u9879\u4e13\u5c5e\u9053\u8def, \u82b1\u6eaa\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "oixrDqdeiSyCd@_DwCa@I}@z@oBeB~Vmd@bCyG\\{G{@oQc@oADoLzA_NzJwe@I{B_@k@aAe@sCb@yBSuLeGqL}CiGsCcDOWoBa@YeEyAcC{Aq@kAkH{DuH{CuFk@}BZ}GScA}@Y~AkQEgHk@gBoAwBHoQcEeDqBmHgHgMiNgC}DaJwGoXmGkEgBoE@WuAiNgC_JSo@_@a_@jFaFa@k@SOu@~@N}@UiBL}AvDErCo@|Cu@Vk@tDyNzUc@rDrCtOj@|GYdDPdBeAnKXdAb@vUzCp@bXKbh@iHvEqBrNmAzBv@nFe@rCNzH`CbI`@hVrDnSnF`EzCdE|FnClJj@vGrAjCzLjClBzAlAzBjCj\\|@fEc@xGyBxHSpCpHvIzHeHFy@f@R~@hG]bO_C|KhoAuHg@Ec@hAeBl@kD_D_AIUr@o@CUgAkAI`EiIfDuEzBuF|JiPfAsFcBc]PcBUqDn@qInCaL~@iHzAmDhBcL\\uDeAqDeCAiCz@cCiBeIcDaSsFUi@ahAyVcLm@mAq@aMaBaKqCwE{BiGkFu@cCcB}ASmA{B}@mDgFqCoAuHqI}W}EgEyBiHcAuDeB_Dc@sSm@kQbCcEIgHf@gBy@lAe@k@nCw@sAqATiAbCe@bEkAdEiExJ_AfAiBn@oAlB_CjG]jCnDdWa@tb@HfD`AlDBtBjJNlDu@`KAbR_BpEaBdDS|@aA`CIrJoCz@TxBiBx@z@hFUlCt@lDk@~BPpGfBta@`FtP~DpGjDpDdDfEnKfB|L|CbC`KtBjCrCzBpYtA|EY~N{CbHyApJZrEtDlLAnEe@bEcDtJuDnG_BxFlCKhCqAnCoErD}Bb@s@U}@sB{@fDdAjCJdFxCrNrEpAdArFC|G{D`OcVvFqLxClAl@E`@w@z@FtDjDfCeBtCa@Ji@c@R",
-    "average_heartrate": null,
-    "average_speed": 6.73477850651734,
-    "source": "xingzhe",
-    "streak": 2
-  },
-  {
     "run_id": 1437596614000,
     "name": "cycling from xingzhe",
     "distance": 32587.64441317001,
@@ -600,36 +585,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1438119592000,
-    "name": "cycling from xingzhe",
-    "distance": 20213.053007803803,
-    "moving_time": "0:42:38",
-    "type": "Ride",
-    "start_date": "2015-07-28 21:39:52",
-    "start_date_local": "2015-07-28 21:39:52",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "wm|rDmq`iSzFhHhoG}{@`GEjDaBnADzEkB|MuK~GuBpWmNdJqGj`@q[jJcFb]iUnMaGpCwCdDuBlBwDb@mBIsBNzBaCrEwKnIcGrC_a@`XiQdKi]jYo_@hTeHjBoO~L{HvBwPBsHlCeGnE}AnCcEjC{ChDoG`P_HtEkDfEiXlPiHhG}InAmG@kIr@eAmA_AkDTs@fDmCTkF}AuF_ByBeEaBy@sEsBeBu@aBiIgDoDtB?mAjCwCn@sF_@s@cBd@wAe@iDgLu@e@cAh@sC_DiC}FsJoZ_CqK@{Bt@oEtYeg@lCnBh@q@v@G|AfBtBt@fGaCVaAQpA[e@PP",
-    "average_heartrate": null,
-    "average_speed": 7.90189718835176,
-    "source": "xingzhe",
-    "streak": 2
-  },
-  {
-    "run_id": 1438461589000,
-    "name": "cycling from xingzhe",
-    "distance": 36367.287001545126,
-    "moving_time": "1:43:52",
-    "type": "Ride",
-    "start_date": "2015-08-01 20:39:49",
-    "start_date_local": "2015-08-01 20:39:49",
-    "location_country": "\u9f99\u541f\u8def, \u9ec4\u6877\u576a\u8857\u9053, \u4e5d\u9f99\u5761\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400067, China \u4e2d\u56fd",
-    "summary_polyline": "kg~rDqdgiS`C}FqAuRsFeGkB?aAf@oLhNuD{@aBHwIxEeBvBcMhHcElH{@xFeAp@_C~EeQ|V}HdOqBpAqLhCyEi@iXn@qHaCaHE}PvDeP|G}^dI{Hb@qD|@eDB{Bw@gLk@}MwGqHmCwLoIyCqAkGgFuLyMmNcS_HwEgBqBuGePwHoW}CeH_GmU{AoCOaB{DiE}@uEIcFl@cI~@_EHmF^cAGaDd@uA|@cOKkD|ByUhAeSRqMoAgSiByK}BkI_EsH_IaKmVgR_HsCaBAuCr@mDrBlChxGvCbE`HpE|jEncBbIoB`Ma@|Dt@HvB[n@_BJi@k@W{B`@{LUac@b@kn@vAaOz@cCv@MdUzFxEm@jEoBfAkAxBmR|BsME_Bt@cBpa@wXzCi@pB@IVrB_@dFNlEe@bLLhk@gIrCoB`MeAtGp@hHc@dG`CdQxAhd@dJnEtCzFhGvB~GhAhJv@~A~BtA~IrCnBlBlAvEh@bIlBxIc@z@dA|H{@hHuBbH?rB~HdIrEqFxCoBnBlCVfAw@pBa@hGTxEwGdS{BpEjA|B`YdLxIcA`C}ArN_W`@iCpGqIzBxBrAqA|DhDl@BtD_ChAJLc@",
-    "average_heartrate": null,
-    "average_speed": 5.835572368668987,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1438634885000,
     "name": "cycling from xingzhe",
     "distance": 33530.68337691734,
@@ -641,21 +596,6 @@ const activities = [
     "summary_polyline": "edxrDiceiSF|@r@d@TzCOnFa@dAkAXqBu@eAwAaGnAsD@eCiEFaAi@s@sC{@`@zA_@aB\\v@k@QsC|DgH|NsFxDsMDmTcJk@c@TuB~AiC~B{IzAiJb@cK]yFw@cAcObE{CgDKyB|DqJTaFsCqXk@sKmCmD{EkBkFw@}BmBaBuMoCkGuEwFqEqCcSoFmOqAsE_B[d@r\\lF~JbCdHvDtDlExChH~@dJnA~CtCjAhHvAnBtAlC`LDjDxBtQPxHeFnQk@lJ|BtFDlB`B|Fo@`IsHxO{EtNgSnOeFbHaD~JmArH[rLbDbX~CjHbD|F~DrEdJlHhNxG~FVp^lEvQFlJnBpHQz@a@fQIzn@iExC_A|HeHz[oRRsAdHcF~AwCpBqHvBeDbG_EjCyE`Aq@bIoElP[rGw@vNsHlFeFlHeCrNsHlXsQzTsRrcAun@nCcDlAmETj@pAOqAKyBpFoIfGaNjHuWrQgU`M_\\|XyO|JwQfJgH|BsFrFuH`FeC`A{Db@oAWeJL_Ft@qIrEeFfG_FvD_BvBcCvJeDdEiCt@mEtDUhAcWfO_JtImHr@qBnAsDLk@g@gJl@e@a@gAcF`D}Cr@aCCwCcAeDyAcDgEuBeCyGwBsB}FaCq@kAuARuBlBSU?g@rCyCVmDQ}BoCGy@w@sCaJeADsBeB_AwBiA}@wPig@O_Ht@cEtDeFzSa_@jBtAv@Ah@m@v@PxAjB~Bh@fAy@fDy@Ga@",
     "average_heartrate": null,
     "average_speed": 7.388868086583812,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1438793672000,
-    "name": "cycling from xingzhe",
-    "distance": 49299.20844846953,
-    "moving_time": "2:36:45",
-    "type": "Ride",
-    "start_date": "2015-08-05 16:54:32",
-    "start_date_local": "2015-08-05 16:54:32",
-    "location_country": "\u91cd\u5e86\u7406\u5de5\u5927\u5b66, \u79d1\u7814\u7acb\u9879\u4e13\u5c5e\u9053\u8def, \u82b1\u6eaa\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "qxxrDgheiSa@k@Fk@`D_IrCwDxO}Yh@oHmBuWEuCf@uBYyExFwZnD_O|AgDhErAnA[yAFz@Qo@d@bBp@|kAlVdSe@|KkGjCkDeBwLf@sEpAiDKmIZuClF}Nl@o@QeD|AaIhCwDnAP{@c@oDv@g@_@b@n@lEaAyDUq@a@]gA`@rAfEd@xEeElDmBzKeChCiB\\iMpCyQg@iDEwNoAkAaC{IxBwEtCoCvCp@gEan@mBeDo@{GsDiDeJJkCiB]aCB{K}DwLw@kLsFiJsAeAkEoBcDgDmFeAcGmD}@yAo@eHcCaDCcAeAyBeC]o@k@yHbBe@k@iB[sAyBLyEeDyCeAWgSsa@eH_LsGqMVwAhHaJkCyNm@gKV{CYuBNoDzB{DR_EbByKhDuE|@kD|AaBj@{IoBgCaA{JuCuGeDiNcD_FIkDwF{FuDbEPqAvAm@Tk@SgGu@cB[gD_Ac@_@L\\nE{@TYKHqAgA{B\\aAhDuBbB\\Ex@bAYHo@`ChBzAcDdFWhBcCxDB_DqAoHhA_Gk@iBu@@i@|@v@tAExB}@bA_B|B_@Gd@`Ag@bHOFUk@YcKmAX^jBK`Q_DLf@mPm@gATlkBjeJaTvdGlAvJiJnJwBdA|f@~XhRbBnI`B`\\pJ|HD`RxA`GUtQp@vMOdZl@d@Pj@xMWzHR~Hk@jFqChFoNpGeYtR_\\~RsHrGuDrBmK|JcN|IcHvCsIpF_HxAiDvDmLbIyHxAkQPeLnGwDdFqGnFeHnQaGxC{CzDs`@bY}D|AqCTkMZcUdB}`@nAsImBaN?ok@_FwFcBgUkO{C}DuE_JoDoKoAqThAyMzBwIrAmCdLgO`KqHhEsEz@BrBeAjBoDrGaE?s@eCwAhKvClVbJ|Fy@|AFOR`C_BbEgGb@{AdG{HTqCqAeAz@h@XE?i@",
-    "average_heartrate": null,
-    "average_speed": 5.241808447471508,
     "source": "xingzhe",
     "streak": 1
   },
@@ -776,21 +716,6 @@ const activities = [
     "summary_polyline": "up~rDu~iiSpm@tJTj@tEj@`GdBxF~FzCfFrApFt@fIvBpB|D~AzGx@xBrEtAvQzBpQg@|FaCtIqAlIDnGrC`IX`Ce@|IsAtCw@hEyErIgBrHuQrOqH|JkDnHIrBoArBu@nFUhJBhBzCnS`I|PdHrHzDrARp@rDdBrCbCzJtC`e@nEvFQxKZ`GjB`FE`Fq@dLGrt@eFlJcIng@m]rD_NvIgHhCoEdAw@tI{E~Si@hFsAhI_FtFiF~IwCdSoKhMaIn[iX`XuOzXmRpG_DnKiHnA_Bx@mEeAvA}IlJqHlDm@`A{OdJuGfF_XvOq`@n[__@bTwHxBsDpDaIpFeH|CuRAcDh@cCrAkF~DuCnEeHhFgGxP_AfAuEvB{BbCaAvBk_AhPbA}Fq@iDmDgGwC}@y@wDmEsEsCcAaBwAiCk@w@tBu@[Ea@jCwCn@kFeD}@u@y@kC}FC}@g@o@uBQeEwGsK}[mCaJSwBJ_E|@}CfJsOfBaB]UZqAhAiA\\AzAvC|BBfBpAdFbAfAq@nEEjD|Ad@MT_BEgJw@wAKwD",
     "average_heartrate": null,
     "average_speed": 8.489963784481462,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1440509216000,
-    "name": "cycling from xingzhe",
-    "distance": 19707.7831990511,
-    "moving_time": "0:39:09",
-    "type": "Ride",
-    "start_date": "2015-08-25 13:26:56",
-    "start_date_local": "2015-08-25 13:26:56",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400067, China \u4e2d\u56fd",
-    "summary_polyline": "}n~rDc~iiSrD|@hFNxUhDfVfGvExDjDnFlBlGxBrL|@r@|KtCbCnBj@lAzAdSbAdFGhAz@`GqAdJuChMOzHHfB`D~J`@hEiAdDoBlKeDxFqDtIeC`DsNzLyH|L}ChJeBdP@dCtCfWxH|OfFzFdPfKtGzCjc@nEtYn@tFdBd\\iAfr@yErNkLzTcO|A}B`HaD|HeRzHoGzAuChA_A`KcF`SWvFyApK}GtF_FpFwAdWiNbM{I`WkTzdAyo@zCsChBwFENSeCuHy@gLWyD\\wJw@ufDjHq@{@",
-    "average_heartrate": null,
-    "average_speed": 9.070263769721231,
     "source": "xingzhe",
     "streak": 1
   },
@@ -1215,21 +1140,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1445616590000,
-    "name": "2015-10-23 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 21834.094438377277,
-    "moving_time": "1:07:27",
-    "type": "Ride",
-    "start_date": "2015-10-23 16:09:50",
-    "start_date_local": "2015-10-23 16:09:50",
-    "location_country": "\u4e5d\u6ee8\u8def, \u91cd\u5e86\u5e02, \u6e1d\u4e2d\u533a (Yuzhong), \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400042, China \u4e2d\u56fd",
-    "summary_polyline": "uffsDkgdiSmE\\kH]Ce@ie@gQmMoIyIaI_IaKwCiFaVoT_C}GSqGoJ{U[_D`g@w`Do@pA_@oBqAcKkA}PkGkb@cAsDk@wJu@JJiA[hA@|Gr@rFGfAfCxIItBX`DbDbJSrCn@lFSnBbAtGKzDjBfA`BjRz@xE~@fAEhDq@pBBxAaAfC]~ItNxxBCzBdDxLjKzMtD`CrAtBhAr@dNvGhWpGrJfAlFWpYqHdHaEdIqKxA{@|TgFrEoCbPiRlL}UbOgUrC{Jh[e@rh@{GpDuBzNqAbDbAdHg@zL~CbFPtSrCdVjF`FxCjCzCbBfDdBzFfAtIn@tA~@dA`N~DdA`Ab@vAjAhLX`LbAtCh@fG}C`Q",
-    "average_heartrate": null,
-    "average_speed": 5.395130822430758,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1446126069000,
     "name": "2015-10-29 \u4e0b\u5348 \u9a91\u884c",
     "distance": 29028.43358338633,
@@ -1470,21 +1380,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1453214192000,
-    "name": "2016-01-19 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 34202.55298270916,
-    "moving_time": "1:10:03",
-    "type": "Ride",
-    "start_date": "2016-01-19 14:36:32",
-    "start_date_local": "2016-01-19 14:36:32",
-    "location_country": "\u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "u{zrDaqdiSh@r@iCzCsDJmFpDoCrEcDf@x@qEdHwNrBwK]wF}CyJ?iE\\_GbDsKz@oHwAwJaB{VyAgFyDoB_IyAiBwAu@kCiA{IeCqGcCkDaGgEiU_GwOeBgEeAeIm@gFwB}BYkj@|Ei_@vFi]tAmEpMuIbLkO`[yJtLsJ|HkC~@kMvBcCrAcJrK{FfEg]nIuFXsFm@mYcHqKyEmG_FoJaK}F{JoAaG]cGvAyj@YmGo@oD_HkSkDi]M_EZeI|A_KQ}GkA_FyC_X}Bq]sJym@]eBu@[e@@_AxAy`JeOh@`BpEpB|`@xGb_@tJvM`ArKY|`@r@lDo@fHiElO_U~QaSrEsDvHeC`g@_Et[XdIhAbPlFbm@vUpFvE|EdKrAvFxApNhFjYbBpYzEhc@wAzYfC``@pBlJrErLjArGArNeA~b@dAdK~BjGpBrC~JrKvIhH|JxDbZnGtFb@lFSdZwGbFeCjKeMxCqBrPkD~HsErIwKrDeD|MoXdKwMvEiOt\\u@hh@eHxE}BhNy@",
-    "average_heartrate": null,
-    "average_speed": 7.638022911648056,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 25829920,
     "name": "run from joyrun",
     "distance": 10113.0,
@@ -1497,7 +1392,7 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 3.9956538917423945,
     "source": "Joyrun",
-    "streak": 2
+    "streak": 1
   },
   {
     "run_id": 26003562,
@@ -1965,21 +1860,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1462475475000,
-    "name": "2016-05-05 \u665a\u4e0a \u9a91\u884c",
-    "distance": 24833.27326899605,
-    "moving_time": "0:48:29",
-    "type": "Ride",
-    "start_date": "2016-05-05 19:11:15",
-    "start_date_local": "2016-05-05 19:11:15",
-    "location_country": "\u5357\u576a\u8857\u9053, \u5357\u5cb8\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400060, China \u4e2d\u56fd",
-    "summary_polyline": "idisDmnliSq@{Da@}JaBkPoAqV{Jim@_@S\\w@q@o@}B_HgGwGmMsGie@cQyPeFee@_Aac@xD_Dt@yChAkGxEsQ~RkR|WiHnCm_@m@qJ\\_Ns@ui@wLaMgBpbDg\\`LgGdKaBj]eCxa@r@jHdBpn@pUlLrFtFtFnBzGlHda@\\~Fd@bAzAlLbB`WT?`AdEx@lGx@bNEjDSxIiAdJYbHtAfAd@zM`AdELzCrBrInEtLd@tDJtZo@`SRpBw@`CArBvAvFtCrFnHxIrF~EzNvIl^pI`Il@xH}@h\\cJlCwBnFaItAaAlCyAzLcCtEeBtDoC`HkHvEcGfOyZtJsLjEoN`[a@zd@kHnj@aEvFrBh[jEtNzCjGbBvFrCjEdFvCfGlAzFP~El@zA",
-    "average_heartrate": null,
-    "average_speed": 8.337144514700356,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 43911783,
     "name": "run from joyrun",
     "distance": 7460.0,
@@ -1992,7 +1872,7 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 3.349797934440952,
     "source": "Joyrun",
-    "streak": 2
+    "streak": 1
   },
   {
     "run_id": 1462811125000,
@@ -2325,21 +2205,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1467131799000,
-    "name": "2016-06-28 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 42827.25431442002,
-    "moving_time": "1:32:55",
-    "type": "Ride",
-    "start_date": "2016-06-28 16:36:39",
-    "start_date_local": "2016-06-28 16:36:39",
-    "location_country": "\u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "mb{rDmzeiSgDkC}@yAUeB|DsNAsDgAyFiDo]mB{B_KuB}BgAkAwCcCwNyDwG{GkFyFgBs_@cHqL}@yHuCaDQ_n@dG{`@tFgUZkAvBc@vCkBjFwL|L_C`IcG|MeHxG_DzDi@dBmJvG}@[oKvBwFxBiJdMmFvCqKjCeFd@_H~B_IH{Ec@eFaBwDUmU}GuIyFc@uAoL{LcBoCiBmFeA}QpA__@KaK}AuIgFwMcB{McBoUAeFnAoKr@cBWeFiAaG_Eq_@k@oOuBcKoGsc@{A{Cy@aHwBiBeDyEcCwAeQaHaKoCaBcBqZqLe[{AwKEyG~@wDSk\\tCyG~DqI~KiItFUlAwCzEmLdNoAfCmGzByBe@o]UgDVWdB{CWiQoBaRcG}U}EMoAuAb@iE?ylA}vAfBxAXa@j@NVi@\\^Fq@f@XHa@bDjg@lPnUxCvBbDlAhDpDzGfEtKhDrYdExNfDpAfA|Bl@pWbEzPo@bX~@|EKhBe@`HmEtDmG~AsAtIiMnQyRjKcFrf@kE|]R|JzAzq@rWlLnF|DpDxCnF~BxKnJ`n@dAnTpE`d@}Az[~@zHVbH|BhQ`HbSr@jHYhQNrBw@dTd@jNjAxD`DtFjN|O`MhHbFnBhXnFhIl@bF[rYkHpFkCjK{MpDcB`SsEzEaDnN_RlPm[lGgHxD}In@sErY[tm@mIvZgGjPnG|F^~VpDtTbGdFxDhCbDbDpIh@tG`@jBx@lA`LbD",
-    "average_heartrate": null,
-    "average_speed": 7.9488451224180965,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1467221551000,
     "name": "2016-06-29 \u4e0b\u5348 \u9a91\u884c",
     "distance": 25153.780338097724,
@@ -2352,7 +2217,7 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 8.013310079037185,
     "source": "xingzhe",
-    "streak": 2
+    "streak": 1
   },
   {
     "run_id": 1467228777000,
@@ -2367,7 +2232,7 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 6.318613301265693,
     "source": "xingzhe",
-    "streak": 2
+    "streak": 1
   },
   {
     "run_id": 1467495056000,
@@ -2775,21 +2640,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1472242541000,
-    "name": "2016-08-26 \u665a\u4e0a \u9a91\u884c",
-    "distance": 13460.706923563928,
-    "moving_time": "0:54:40",
-    "type": "Ride",
-    "start_date": "2016-08-26 20:15:41",
-    "start_date_local": "2016-08-26 20:15:41",
-    "location_country": "\u9f99\u6eaa\u8857\u9053, \u6e1d\u5317\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400021, China \u4e2d\u56fd",
-    "summary_polyline": "{ppsDym`iSbF`IhEdLzjAngBYlBlE@Cb@yCh@aB`Ay@zANx@x@WVdAGjF]fBrAt@MnBkFqDm@j@XhA`BbAf@zBnCz@fBoAbFsGzNeZTLvAoChFaW`@sI_@gJgHkXcA_NXcG|AoKzCwJtCoRrhF{|AXm@EwnAXgJvB{PTq@v@YfAFzPzD",
-    "average_heartrate": null,
-    "average_speed": 4.103874062062173,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 71234941,
     "name": "run from joyrun",
     "distance": 407.0,
@@ -2833,21 +2683,6 @@ const activities = [
     "average_speed": 8.332577685633723,
     "source": "xingzhe",
     "streak": 1
-  },
-  {
-    "run_id": 1472754012000,
-    "name": "2016-09-01 \u665a\u4e0a \u9a91\u884c",
-    "distance": 6989.211104371692,
-    "moving_time": "0:13:13",
-    "type": "Ride",
-    "start_date": "2016-09-01 18:20:12",
-    "start_date_local": "2016-09-01 18:20:12",
-    "location_country": "\u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "aw{rDwwciSeANgNzJaJzM{CnI}BrLKlDnEn^zF|MxFzGbTzL`uLaoE[qAe@xGkB|CgJdGiFzBg`@~WySrLuX|UuPpKoRlJgHhCwD~DeOxIoEt@gT\\yCv@eAz@",
-    "average_heartrate": null,
-    "average_speed": 8.583258149305644,
-    "source": "xingzhe",
-    "streak": 2
   },
   {
     "run_id": 72804345,
@@ -2968,21 +2803,6 @@ const activities = [
     "average_speed": 7.794,
     "source": "Strava",
     "streak": 2
-  },
-  {
-    "run_id": 1474820636000,
-    "name": "2016-09-25 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 8806.696840529834,
-    "moving_time": "0:36:07",
-    "type": "Ride",
-    "start_date": "2016-09-25 16:23:56",
-    "start_date_local": "2016-09-26 00:23:56",
-    "location_country": "\u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "gg{rDurdiSaBU]g@_EeAyz@a]gCaBqF{FoAoC?qAutA{IaHbNwJxMmF|KeClC_Bv@_LnAqQH}Hh@sCOgKaCsJp@xB@qOtCwPdHi]dITVdHmA`ALzAxHqAfBeC`@luHK@n@_B~BTFpCqE`CMfAi@vDcFtE_D^k@Qk@mBeA~H|AvGhDbOvF",
-    "average_heartrate": null,
-    "average_speed": 3.907999166643633,
-    "source": "xingzhe",
-    "streak": 3
   },
   {
     "run_id": 727282818,
@@ -4335,36 +4155,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1490196529000,
-    "name": "2017-03-22 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 12471.000951250155,
-    "moving_time": "0:54:54",
-    "type": "Ride",
-    "start_date": "2017-03-22 15:28:49",
-    "start_date_local": "2017-03-22 15:28:49",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400067, China \u4e2d\u56fd",
-    "summary_polyline": "{z{rDuvciSyMdKyGfJsE~KuAlItmDntA~@CbQkAxBi@tMcK`MoNlHw@G]rAuA~G}DdFsNhBcCnGwEfBiDxBcBvHwDvQQ~Eq@zJ_GpImHhG_BnRwJtvBk~AIeD]~FsBrDgJxGqF`Cwh@z\\",
-    "average_heartrate": null,
-    "average_speed": 3.785974787871935,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1490522759000,
-    "name": "2017-03-26 \u4e0a\u5348 \u9a91\u884c",
-    "distance": 43547.28658006051,
-    "moving_time": "2:14:31",
-    "type": "Ride",
-    "start_date": "2017-03-26 10:05:59",
-    "start_date_local": "2017-03-26 10:05:59",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "e}{rDktciSaIxFoKfOkDvJcBhJQnNrAjMdBfF|ErJbzCjb@nVcBhHsAtP_PbA{HrMTxC_E|GkDjC{GhcFkaD]eDk@fHsF~FekClaBqH~G_F`DkDxAiDd@sRPcC|@cG`EcAz@wAvCwIpH}CnJqBvDqgEkuClEvKO|GoA`GoMf[qKrILAoEbE}HzL_ChG}BdNMlQTuA~BhHhA~IhGpLbmB~c@fSo@rq@cEzDsAjQmOj`BgcAvMyKfHwBla@eUz]cZxXiPxWyQzFiC`HuEfB}AdAyCZyBSyCYr@FnEoBbEifA`q@_[jWsPhKm@fAgAGmMfHmHzBcLnJ}FzCcDn@_T`@aLlGcCdEuGzEkA|AcCbIwCpFsFtCwGrHa@Y|@aAo@p@iFu@yA`A}DbKgBn@_IhHcExAoYtACB}AyF`@gAjCwBr@yFqBeGwAwBoDeBwAqEmDiDiCw@WmAiD{@yB`Be@ANaAjB_Ch@sFuDy@uDoHa@mC}AZeEmF}P_h@a@_G^yCpJaQxB{B",
-    "average_heartrate": null,
-    "average_speed": 4.382300725175366,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1490710897000,
     "name": "2017-03-28 \u4e0b\u5348 \u9a91\u884c",
     "distance": 16974.644293364236,
@@ -4380,96 +4170,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1490719079000,
-    "name": "2017-03-28 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 16649.665573757233,
-    "moving_time": "0:50:51",
-    "type": "Ride",
-    "start_date": "2017-03-28 16:37:59",
-    "start_date_local": "2017-03-28 16:37:59",
-    "location_country": "\u5c0f\u4ec0\u5b57\u51fa\u5165\u53e3 7, \u9053\u95e8\u53e3, \u91cd\u5e86\u5e02, \u6e1d\u4e2d\u533a (Yuzhong), \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400010, China \u4e2d\u56fd",
-    "summary_polyline": "i|lsDyooiShB?Jz@b@EvAkBIyAuAyCJkEzLut@lBsIdElAnBdUls@nYa@\\tBrAbFjJlCjJfBtJfTz|C~FrPdB|Ky@|c@]|ARvLfCnKhBpDrEnFpaNheAl@S",
-    "average_heartrate": null,
-    "average_speed": 5.457117526632984,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1491046228000,
-    "name": "2017-04-01 \u4e0a\u5348 \u9a91\u884c",
-    "distance": 47883.34204595554,
-    "moving_time": "2:13:48",
-    "type": "Ride",
-    "start_date": "2017-04-01 11:30:28",
-    "start_date_local": "2017-04-01 11:30:28",
-    "location_country": "\u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "}}zrD}ndiSHo@|@o@zEuR`A{SiAkFeAB_IvHgHiIEs@fDuL^qGmAqHyBqXaAiC_EgCoIiBuAiAi@wAuAwK}@oCuCaFcGiFwBeA}WcGcGYaHaBmG_@gK{Cmi@zDwWnEwPfByUVmF~O_HhIqQp]iOrQqGbDoQlDgEjDkIfKsI|C}SnFqHh@sJgAuBiA}ReEqCy@cLuGsPuQoD{HeA{FSiItA{d@SgH_AuFsE_MsB_LmCq]RyEoZmoCeDiE{DkCcJeC_IeDg@q@yF{AcY{KmPeC_EZgIc@_DXmBc@uBh@eGBw]tC}K|FuJrKYc@RGB`@]Ie@zA{D|DwGbDyK`SwC~B_D|@c^w@oJb@sO{@}j@qMgW_EcHmC`AdAtD~A|^nGba@xJjMjAdOUxHR~jIlkHjDjAtP|ChICjGqApR{EzE{BtCmCfEcGnDuCjUkFzDoCfOeQtOuZdIeKhB{DrmIxsHTsA_AkDB}@~CoDr@_Fw@sAMkBaCkEkEmBc@aEoBcAcAyAmJwEkBlBe@EZkB~AgBj@yEcDaAy@kAgCuEUwC}BFgDcEePof@y@iFL_Ft@_C~Xof@xBzA~Aw@nEfDxDoA`BDRaAQ?",
-    "average_heartrate": null,
-    "average_speed": 5.964541859237113,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1491324937000,
-    "name": "2017-04-04 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 12965.101648350204,
-    "moving_time": "0:25:41",
-    "type": "Ride",
-    "start_date": "2017-04-04 16:55:37",
-    "start_date_local": "2017-04-04 16:55:37",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400067, China \u4e2d\u56fd",
-    "summary_polyline": "qx{rDayciSuPlNgFrHiDxGgDvNc@bM`BlOzAvFbGbMvuJoiBxO{Mz\\sSrTgOtGyCzKkJrAqEy@BCzAiAvCiH~FaHfDwo@na@g[rV",
-    "average_heartrate": null,
-    "average_speed": 8.21063319936901,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1492272187000,
-    "name": "2017-04-15 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 34298.79870422065,
-    "moving_time": "1:23:00",
-    "type": "Ride",
-    "start_date": "2017-04-15 16:03:07",
-    "start_date_local": "2017-04-15 16:03:07",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "ib|rDkpciSsGpFkI|MkDtKmAvOpA~Sd@VzB~GlFjK~BdDbDdCvhMi~DKKMcDQFUbCPtAs@xBaEzDwPfJog@n\\iuFz`DGOko@nCeF_BgTOs]kDon@gjBhHkItLeJxBiE|BqHpA}AHkAfAw@fBoFzAyHAoAeAcH_CkG@yGXoBqbBc}BGSvb@hG|QbEzErB`EjDbDvFfBrHbA`IbB~ApE|@gWvbDoFxKgBtFcA`G[lJlAzBfElChHa@bOuClMArCcA`C_FzFoIPiArAeBfB}@`BYnWf@dJo@bCoAA_Bu@_Ba@uD_B{BcDoK]cGrAwFlO}W",
-    "average_heartrate": null,
-    "average_speed": 8.100095831060921,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1492549229000,
-    "name": "2017-04-18 \u665a\u4e0a \u9a91\u884c",
-    "distance": 25162.202302957423,
-    "moving_time": "1:01:50",
-    "type": "Ride",
-    "start_date": "2017-04-18 21:00:29",
-    "start_date_local": "2017-04-18 21:00:29",
-    "location_country": "\u5df4\u5357\u6ee8\u6c5f\u8def, \u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400067, China \u4e2d\u56fd",
-    "summary_polyline": "iw{rDazciSkCdD}HdFeCdC_IrLeCnGqBdKa@nGDpFryEto@pEcDX\\xFoClBsDfJyF~G_QfBsBlEyCpEkGpJmEnQO`HyAjJmGpF_FjHwBbQeJfQuKhYmVpeAqp@dB_BhA_Cb@kFN|@U~@EOOuCOTKrEa@fBqFlFcFdD_E~Ao[|SeTdMwa@r\\g`@pTwFtA}KhJ_cGhvAsFM{As@wBEoCsAgSsNsCmD{DoHoGaREeVp@eGdBuG~|Ami@xDoD|MoUhBxCrCNzFdDd@SIQ`EiAjC\\|BjAfA_AT{AIiIy@i@@{BU[Ne@QJUg@x@v@w@_Az@J",
-    "average_heartrate": null,
-    "average_speed": 8.17549524925882,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1492864666000,
-    "name": "2017-04-22 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 35008.54980047118,
-    "moving_time": "1:35:09",
-    "type": "Ride",
-    "start_date": "2017-04-22 12:37:46",
-    "start_date_local": "2017-04-22 12:37:46",
-    "location_country": "\u674e\u5bb6\u6cb1\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, China \u4e2d\u56fd",
-    "summary_polyline": "}g{rDqrdiSodAua@aIsGsBoDC}@fBcJsJgOqCgA`B}B~@{CmAsSmCaDuCuA}B^cBzB{Ar@o@|AgCjCOOyAbA_Dm@}ATaNrIWp@gCx@cGdEeDvFSdCeAvCsLpQqO`YQKoCjD}DlB{Ft@qCQ[~@sAm@gBTwB[sKZqA`@iMwCcEUwRtD}LrF{GhBc[dHmMvAy@UgDXcKyAmX}JgW_QqE{DyIoJeOoTcHwEqImOsBiHoAiI_AuBJw@cBiBiEeK{@qCHwAs@qC?ZGg@{@i@qHgAu@q@_EkQNk@q@sDZ{AY_EhB{FdBcMDeWXQYEs@kFzD{If@gDFaFaBmDoEcEaC]wB^kBoDEiMpAiFEiAmAmI}BaFYg@qCl@HWsZov@\\yFvDcVxGs_@r@S`JpEhRnEpEaAMm@sDrDkCfAoBc@cCnA[Ms@hDkEg@e@nA|AnArNhEp[xMvARv@hAbD`BzE|GdCfJvAhNrBnJzLp~Ac@U[~AQbHbC|]~ArI`GjP`AxH_A~i@fzJr{DAdGnAxBjDpCtEKlQgDnPi@rB}AnK_RfCcBrFa@nPNlJ]jEuACiBgJiYQiEd@wDlZmh@bCxAlA}@n@JhBt@|@fBlEcB|@DHg@xAHJXk@}@u@G",
-    "average_heartrate": null,
-    "average_speed": 7.153208707192609,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1493745666000,
     "name": "2017-05-02 \u4e0b\u5348 \u9a91\u884c",
     "distance": 6979.998035424212,
@@ -4481,21 +4181,6 @@ const activities = [
     "summary_polyline": "s{mrDygfiSg@_D]rHyCvDgaArm@s^vYuNdJuSvKqGdBsFfFmKvGmG~@qQRuI|E_BrAuBvD{HnGqGhPiGjDoFrGcGlDCbA{ChCiChAmBGuHvGkCpAed@vC",
     "average_heartrate": null,
     "average_speed": 8.399516288115779,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1496226626000,
-    "name": "2017-05-31 \u4e0a\u5348 \u9a91\u884c",
-    "distance": 30659.904908818124,
-    "moving_time": "2:02:54",
-    "type": "Ride",
-    "start_date": "2017-05-31 10:30:26",
-    "start_date_local": "2017-05-31 10:30:26",
-    "location_country": "\u6e1d\u5357\u5927\u9053, \u6d77\u68e0\u6eaa\u8857\u9053, \u5357\u5cb8\u533a, \u91cd\u5e86\u4e2d\u5fc3\u57ce\u533a, \u91cd\u5e86\u5e02, 400067, China \u4e2d\u56fd",
-    "summary_polyline": "_iwrD_tiiSbFH~UnE~KvHpLdFzGn@dJs@mu@ezM\\wDMcHVuAlAyA|BkPz@uCrK}_C^We@Q`@PeCDcKxBsE\\WJLTpLV@b@uK~@oGhCeBW_@Rv@~AlCj@dHEjDuA`CZX`@yCSuApBiGj@u@p@e@hBuB{AoA`Ak@Oo@yAk@h@xQf{Bf@N{B`FWfCVhE_@tDf@zNhCfIwH~LlXbh@hK|TtEfDNrFd@vAjGvBjBc@zAyA~Dj@~@v@~@bDnBxCt@pG|@jA~BfBdQhIdk@foCL`CfC~AfAdCWlBmBp@GtBzA`F@bEoAnG_AxR_@fAyFdCoEX_JvG_FnEwAvFmeB~}@u]wGyDoA{@g@Ak@^c@bAJ|@nDiMjm@f@n_@f@hIg@rHsE~Jan@|eApLiP",
-    "average_heartrate": null,
-    "average_speed": 4.157839016655563,
     "source": "xingzhe",
     "streak": 1
   },
@@ -4560,21 +4245,6 @@ const activities = [
     "streak": 1
   },
   {
-    "run_id": 1502560171000,
-    "name": "2017-08-12 \u4e0b\u5348 \u9a91\u884c",
-    "distance": 18374.195352300318,
-    "moving_time": "0:52:49",
-    "type": "Ride",
-    "start_date": "2017-08-12 17:49:31",
-    "start_date_local": "2017-08-12 17:49:31",
-    "location_country": "\u4e09\u73af\u4e1c\u8def, \u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, 516002, China \u4e2d\u56fd",
-    "summary_polyline": "ejblCw_ryToGdGoC`F}ArEgD|RgCnJcJfOpoAv}CfP^bK|@fEnAtGxEdDtEpA~D`@fD]lSg@hD{AhEmDdD}Bh@_DoDe@II\\u@UpAc@QN}@eBuAmDNPAqAi@_@lCPz@xBlClDOv@IeA}@`Fk{@rz@xAxAu]p[yFbEuJzEaJ~B_IhA{EOgHeBaAaA_@iAI_FvAgn@_@yHsCaNyKw\\iBqIY_EEclAh@oGJya@PgCzAmFfHgOtp@qbAfCsHpDuUdA{DrA_DvEwFO}@qDiEW}AkGgK_E{KsAqAXEi@kB",
-    "average_heartrate": null,
-    "average_speed": 5.798105191637841,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
     "run_id": 1503164799000,
     "name": "2017-08-19 \u4e0b\u5348 \u9a91\u884c",
     "distance": 14886.77601107942,
@@ -4586,21 +4256,6 @@ const activities = [
     "summary_polyline": "gaclCompyTah@jx@_IbKsJhOgCnIi@|GPxKYzOl@pGc@`FTrBYnXV~Ai@jIVvGtPzeALMPz@hArJZhHo@``@d@jD@pL`@lBfIlD|AtADvB_@rAiAl@uA_@AwAVOnYwGpKgElFyCfT{Qd^e]l@CnLtN`T~_@bEvLjClEvFxGzo@vl@LnA|BrB|EdH~CrBbGVpJu@vGPzG|AbE|B~LvDn\\@xBb@|AKbB}BZuIYwJ`@}DQcCP{IUoAX{ESa@cA~A",
     "average_heartrate": null,
     "average_speed": 6.949942115349869,
-    "source": "xingzhe",
-    "streak": 1
-  },
-  {
-    "run_id": 1503172215000,
-    "name": "2017-08-19 \u665a\u4e0a \u9a91\u884c",
-    "distance": 2383.5921272876612,
-    "moving_time": "0:48:36",
-    "type": "Ride",
-    "start_date": "2017-08-19 19:50:15",
-    "start_date_local": "2017-08-19 19:50:15",
-    "location_country": "\u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, 516000, China \u4e2d\u56fd",
-    "summary_polyline": "wgzkC{vayT~@Y~@j@dBvBCjAwBjCUtAkD`E_AtGyAjBo@`EaBbD|FpxA",
-    "average_heartrate": null,
-    "average_speed": 0.8174184249957686,
     "source": "xingzhe",
     "streak": 1
   },
