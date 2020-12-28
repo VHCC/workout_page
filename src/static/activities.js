@@ -6568,6 +6568,21 @@ const activities = [
     "average_speed": 2.3068104474083118,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1609038993000,
+    "name": "walking from Garmin Connect",
+    "distance": 3600.90989473262,
+    "moving_time": "1:50:28",
+    "type": "Hike",
+    "start_date": "2020-12-27 03:16:33",
+    "start_date_local": "2020-12-27 11:16:33",
+    "location_country": "\u5d02\u5c71\u5de8\u5cf0\u73af\u7ebf\u6b65\u9053, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+    "summary_polyline": "mht{E}~d_VZsC}@i@Qb@sAAeCaAeBVSy@aCiB{@eD{GeEKiDaA}AOgBeDScGsDu@kAuASmByA{EaAaBaBaBHsBg@_EPs@tAuAp@kBCi@l@RJ_@o@}@CWwAc@Ss@|AQi@y@MuAh@Er@g@V_@UKb@iAm@g@b@c@_@o@PC_@gAzACe@iAs@cALqEeCI`@gAoBXM{@{Bd@WM}@YZ~B]K^d@n@_ANUUXaAr@d@Mf@J[_@k@PISJPQ{@Cq@h@Og@Z`@Sb@LhCjAjCTHCk@RB`EtBPYjATj@z@hAs@L^l@{@vBlBaAu@pAf@Je@y@`@JUUg@EX",
+    "average_heartrate": 111.0,
+    "average_speed": 0.5432875520115601,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ];
 
