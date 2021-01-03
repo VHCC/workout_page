@@ -6598,6 +6598,21 @@ const activities = [
     "average_speed": 0.6318905697219812,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1609560627000,
+    "name": "cycling from Garmin Connect",
+    "distance": 11620.750094669329,
+    "moving_time": "1:27:25",
+    "type": "Ride",
+    "start_date": "2021-01-02 04:10:27",
+    "start_date_local": "2021-01-02 12:10:27",
+    "location_country": "\u68a8\u56ed\u8857\u9053, \u6b66\u660c\u533a, \u6e56\u5317\u7701, 430080, \u4e2d\u56fd",
+    "summary_polyline": "_psyDecayTo@MTe@EoDy@HgCq@gC~@f@cFUoJqCmEyBkKiCcC}Asg@eAwD`@a@EwD`AhCyAvArAhDpWqNlOdDxZrDlDFjAwAhCoGhE{TpAwClJqGlHLlA[pN_Oh@wBnBqXF}Ae@kBf@Cx@hAlBF~^At@\\jDzF|GnFtFp@|SElEo@tAVpChDjBrE~@hG~BxGPhE`BtDx@~D`DfG~@x@dFlAlLs@rCRvFtOYbBmBtCcAlFItC`AnGQnGXzD|AtDnChBh@~ChCfBRn@aAz\\Ph@|@RjFDhFpAnQzG`@~FYt@]fMm@vC",
+    "average_heartrate": 114.0,
+    "average_speed": 2.215586290690053,
+    "source": "Garmin Connect",
+    "streak": 2
   }
 ];
 
