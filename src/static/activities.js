@@ -6613,6 +6613,21 @@ const activities = [
     "average_speed": 2.215586290690053,
     "source": "Garmin Connect",
     "streak": 2
+  },
+  {
+    "run_id": 1610116495000,
+    "name": "walking from Garmin Connect",
+    "distance": 1266.9605078421052,
+    "moving_time": "0:21:03",
+    "type": "Hike",
+    "start_date": "2021-01-08 14:34:55",
+    "start_date_local": "2021-01-08 22:34:55",
+    "location_country": "\u4e2d\u592e\u5927\u8857, \u5c1a\u5fd7\u8857\u9053, \u9053\u91cc\u533a, \u54c8\u5c14\u6ee8\u5e02, \u9ed1\u9f99\u6c5f\u7701, 150000, \u4e2d\u56fd",
+    "summary_polyline": "askvGg|wcWhAg@nDGlAy@dD@zMuBWsARl@|AZrEa@dHj_@{@dB",
+    "average_heartrate": 108.0,
+    "average_speed": 1.0031357940159187,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ];
 
