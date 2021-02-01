@@ -7648,5 +7648,20 @@
     "average_speed": 2.7065386521424526,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1612062088000,
+    "name": "walking from Garmin Connect",
+    "distance": 13426.684237021374,
+    "moving_time": "4:53:53",
+    "type": "Hike",
+    "start_date": "2021-01-31 03:01:28",
+    "start_date_local": "2021-01-31 11:01:28",
+    "location_country": "\u8302\u4ed4, \u4e1c\u6e56\u8857\u9053, \u7f57\u6e56\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "yq{hCc~}wTEkBxAqEOwAl@iCnDs@z@}DzAgB~HYjBmAfD[rA_AfFrCnASrIvA~@uA|@SpEnBp@?lBcFA_Cb@O^n@q@zKLq@`@BQQv@?lE~@j@Sq@k@D_At@WJgBlAaAp@KjAp@~BTnAi@Je@e@mAk@h@k@eAPkAhB{A{@eE`@SbBz@b@m@}@sEZg@|ASxAwABo@aAoBzAoAHcEY_AYRuBm@qDr@yBaBrBoFs@_BBsC{@sC?oBh@aEnAwCJkFd@q@kBeCsA_F{@B{BkD{B[QsAcAm@sBqDe@Fc@_@uArAq@Qm@f@}AMYvAt@I{@LRGbBdKnBeBh@D`@fArBVhBvBrAl@t@dEnAKfCt@x@QbBnAAtCwAzCc@`GlAtEInBr@bB}BfFzA`B|@FvAo@rCh@j@W\\bAXOjKnE`BuAzD^jAj@LVi@rAl@hC~Ax@dBAk@|FdAvDz@xArAAv@bAdCb@|Ai@vBCpCiAHb@}@bANl@l@aAlCsAC_@iCuBiAUwAr@_Au@zAUNk@hCWhEpA|B{At@Z\\tAXo@[sAiBi@o@cALKdBx@vA?tBdCGzC{A`BZjDdArBdCj@jCeAnDx@r@SaAjEx@nBTfLe@rAwBz@v@jAdDnBLdAsCh@}AjAsC|@mCHw@vAiBrAu@jB`AbBrEMjAnAfABlAxFP`O~@nDyA~AQ~@kA|@iAzEI|CvAtAmDC]vB_Av@NlBn@j@dB_@r@vATMp@r@bAS|BR",
+    "average_heartrate": 100.0,
+    "average_speed": 0.7614520635751928,
+    "source": "Garmin Connect",
+    "streak": 2
   }
 ]
