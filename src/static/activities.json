@@ -7981,7 +7981,7 @@
   },
   {
     "run_id": 1602380912000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 4011.116655465456,
     "moving_time": "0:39:18",
     "type": "Run",
@@ -7991,12 +7991,12 @@
     "summary_polyline": "ii}sDaabkP[cIcAuFEaFcA[gG`B`A~QhBvQcAbB_@zY}DQiWqGwAyCsBoIgDaIe@eI\\kOCm@q@IrBAWwBCiLdFwJBgJSq@L`@yDx@oBcC",
     "average_heartrate": 131.0,
     "average_speed": 1.701067283912407,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1603620813000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 4207.518724797071,
     "moving_time": "0:36:14",
     "type": "Run",
@@ -8006,12 +8006,12 @@
     "summary_polyline": "skphCq|gvTYMBmBs@qDw@cAuCy@wAZmEM}@QWm@q@uGPoDe@AIo@V_Nq@kFnBa@jBeCx@cGUeB_DwBcCVwDlCsAW_BXkCrEAdChBxCv@b@lA_@f@aBv@q@pARdBvAjCMlCmC`@cGk@kBeAeAkC_@mB`@oCtByCGyDvGT|B`C|BpAGdA{Bj@WvAV|A~Av@jBaA|Ev@fF",
     "average_heartrate": 130.0,
     "average_speed": 1.9353811981587261,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1603715042000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 2834.162867136442,
     "moving_time": "0:16:34",
     "type": "Run",
@@ -8021,7 +8021,7 @@
     "summary_polyline": "amohCk|kvTbG`CzCOt@|BQjBRbDw@tFJ|H}AlI@jD_ArFyArC}Av@H\\m@C]fAjAn@k@dEp@rCYxAi@f@TxAwA`GL`Bi@WExDs@jEkC~HlAhF@fDy@xAuJG",
     "average_heartrate": 150.0,
     "average_speed": 2.8512704900769035,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 2
   },
   {
@@ -8071,7 +8071,7 @@
   },
   {
     "run_id": 1605098519000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 3174.3841228977917,
     "moving_time": "0:17:03",
     "type": "Run",
@@ -8081,12 +8081,12 @@
     "summary_polyline": "_uohCshlvTf@vAjIrFh@hAmBm@Pa@~BjBzCn@jBzAT|Am@xFj@zM}@nEM`CXvBo@lHcCvBRbAcFlBMdA`AjAVhBg@`Db@hB_@jCk@z@@nCcAzBgAlF]zJc@nBB`Bl@pBm@zCk@z@eLG",
     "average_heartrate": 142.0,
     "average_speed": 3.103014782891292,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1606394566000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 2992.237160481951,
     "moving_time": "0:19:31",
     "type": "Run",
@@ -8096,12 +8096,12 @@
     "summary_polyline": "_oohCo`lvTl@h@?~AzA~A~Fh@lBrBRfDcCpFCzFH`@lC}Bg@jCd@rCk@zAa@dGoAxGoArEeA~AmB?e@nAbAl@OhJcBbNFdBaAxAsBnOKrKk@t@uFGyA]s@`@",
     "average_heartrate": 144.0,
     "average_speed": 2.5552836554073024,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1607156787000,
-    "name": "cycling from Garmin Connect",
+    "name": "cycling from ",
     "distance": 22648.359944480944,
     "moving_time": "0:59:36",
     "type": "Ride",
@@ -8111,12 +8111,12 @@
     "summary_polyline": "qbclCi{ryT}A}CqKaJeKuLeA?{IpGcRrUeBrEMbBsKh`@gCdHg]{K_MwA}LgCe_@cAmi@xBup@{AaVuDeOaFiTuOeCcJkCmUe@qAwBgACyB`CaJlM_Z_AcGiBaF~AkHUuAPgA|K_RlH}RjN{YbHuL~GiI|HqN}G`MqIhK}FpJKPyNtZaIjTqKlQOv@XzB_B~GfBnE~@jGuNx[cBdIV~AhBr@l@dAtCfVrCnJxUjPjN`EjVhDdp@dBth@yBz_@hAvZ|ErUdIrEz@vDkJbOqh@lQqThJiGj@BhIhKhKzHlEdFdKkIf@L|FlJj@GrCaC",
     "average_heartrate": null,
     "average_speed": 6.33343398894881,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1607767572000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 3605.544729299191,
     "moving_time": "0:26:03",
     "type": "Run",
@@ -8126,12 +8126,12 @@
     "summary_polyline": "wtlhC_vkvTuAtCmAf@?hCYtBi@`@e@|I}@~CSbE{@BPv@UpDhAhEI~AsAjDPrDs@~CiGs@{LuEiBLH_AeJ}Ay@~AoB^mAlA{A~FuCdAV^JpGwBfFf@lAw@L_@rDcAlAShAA~CtAnIw@d@kJbA{EbB",
     "average_heartrate": 151.0,
     "average_speed": 2.3068104474083118,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1609038993000,
-    "name": "walking from Garmin Connect",
+    "name": "walking from ",
     "distance": 3600.90989473262,
     "moving_time": "1:50:28",
     "type": "Hike",
@@ -8141,12 +8141,12 @@
     "summary_polyline": "mht{E}~d_VZsC}@i@Qb@sAAeCaAeBVSy@aCiB{@eD{GeEKiDaA}AOgBeDScGsDu@kAuASmByA{EaAaBaBaBHsBg@_EPs@tAuAp@kBCi@l@RJ_@o@}@CWwAc@Ss@|AQi@y@MuAh@Er@g@V_@UKb@iAm@g@b@c@_@o@PC_@gAzACe@iAs@cALqEeCI`@gAoBXM{@{Bd@WM}@YZ~B]K^d@n@_ANUUXaAr@d@Mf@J[_@k@PISJPQ{@Cq@h@Og@Z`@Sb@LhCjAjCTHCk@RB`EtBPYjATj@z@hAs@L^l@{@vBlBaAu@pAf@Je@y@`@JUUg@EX",
     "average_heartrate": 111.0,
     "average_speed": 0.5432875520115601,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1609492678000,
-    "name": "walking from Garmin Connect",
+    "name": "walking from ",
     "distance": 1308.013479324501,
     "moving_time": "0:34:30",
     "type": "Hike",
@@ -8156,12 +8156,12 @@
     "summary_polyline": "agmyDsqrxTLr@k@h@SvB_@Ze@|IeCa@aAzAsEp]|CzC[G\\LBr@Vg@x@CAdAg@ZeB[\\d@iFyDMu@Rn@X?",
     "average_heartrate": 100.0,
     "average_speed": 0.6318905697219812,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1609560627000,
-    "name": "cycling from Garmin Connect",
+    "name": "cycling from ",
     "distance": 11620.750094669329,
     "moving_time": "1:27:25",
     "type": "Ride",
@@ -8171,12 +8171,12 @@
     "summary_polyline": "_psyDecayTo@MTe@EoDy@HgCq@gC~@f@cFUoJqCmEyBkKiCcC}Asg@eAwD`@a@EwD`AhCyAvArAhDpWqNlOdDxZrDlDFjAwAhCoGhE{TpAwClJqGlHLlA[pN_Oh@wBnBqXF}Ae@kBf@Cx@hAlBF~^At@\\jDzF|GnFtFp@|SElEo@tAVpChDjBrE~@hG~BxGPhE`BtDx@~D`DfG~@x@dFlAlLs@rCRvFtOYbBmBtCcAlFItC`AnGQnGXzD|AtDnChBh@~ChCfBRn@aAz\\Ph@|@RjFDhFpAnQzG`@~FYt@]fMm@vC",
     "average_heartrate": 114.0,
     "average_speed": 2.215586290690053,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 2
   },
   {
     "run_id": 1610116495000,
-    "name": "walking from Garmin Connect",
+    "name": "walking from ",
     "distance": 1266.9605078421052,
     "moving_time": "0:21:03",
     "type": "Hike",
@@ -8186,12 +8186,12 @@
     "summary_polyline": "askvGg|wcWhAg@nDGlAy@dD@zMuBWsARl@|AZrEa@dHj_@{@dB",
     "average_heartrate": 108.0,
     "average_speed": 1.0031357940159187,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1611658237000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 1904.8889396051227,
     "moving_time": "0:13:01",
     "type": "Run",
@@ -8201,12 +8201,12 @@
     "summary_polyline": "mhohC_}kvT^pA~AxAxBP@nCi@rCxAhEAvAf@hB[n@_@_@H]RLW@g@`OiBjLo@p@Dr@k@fAcA`@Kp@u@Ic@v@t@v@OZlAhDUnByDbIfCvAKZ",
     "average_heartrate": 141.0,
     "average_speed": 2.4390383349617446,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1611663761000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 3085.9458976461606,
     "moving_time": "0:17:42",
     "type": "Run",
@@ -8216,12 +8216,12 @@
     "summary_polyline": "i_qhCmsivT|AeBn@mGg@cCgC}AiCh@sClBoBYyAf@aChDYdCTnApCvBx@Yx@eB~@]vExBzCw@t@{Bf@{Fo@{BuB_AoCRsCvBeDMkDnEa@bCbAvB`CjAd@Kj@oB~@c@hAFrC`BdD{@`AgC\\{F}AyBkCg@",
     "average_heartrate": 155.0,
     "average_speed": 2.9057870975952547,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1611996808000,
-    "name": "running from Garmin Connect",
+    "name": "running from ",
     "distance": 7080.305114004656,
     "moving_time": "0:43:36",
     "type": "Run",
@@ -8231,12 +8231,12 @@
     "summary_polyline": "ilphCeahvTOsCw@YUo@\\]UcEqD}BgDL_@yAsBRg@m@GeBBv@UGPgAH`@ULAcA_AoBBeC{@uD?cB|CsDhAbBhBEn@oAKUuGhAiAo@Xu@dA@jAo@jAwB@cD`@u@GuBi@iAoCmAaBh@gDhCiDa@yDxGHfCxAhBlA\\zBeCbGzA|CkA|@gCNoGgAsBcBs@kBd@}CtBaDSaBjDw@j@e@bBv@zCzAnAt@Kz@}AdAg@tEpBpBg@lBwD\\wEoBiD{@[eBPsDbCwBYy@PcApCiAdA[xBr@bCnAt@fAO`AsAdAa@tEfBhBa@pBmDh@oEy@mCcCuAsBXiDjCcDI}CnESvAn@lChAdA~A?pBmChARdCdBjCw@",
     "average_heartrate": 151.0,
     "average_speed": 2.7065386521424526,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 1
   },
   {
     "run_id": 1612062088000,
-    "name": "walking from Garmin Connect",
+    "name": "walking from ",
     "distance": 13426.684237021374,
     "moving_time": "4:53:53",
     "type": "Hike",
@@ -8246,7 +8246,7 @@
     "summary_polyline": "yq{hCc~}wTEkBxAqEOwAl@iCnDs@z@}DzAgB~HYjBmAfD[rA_AfFrCnASrIvA~@uA|@SpEnBp@?lBcFA_Cb@O^n@q@zKLq@`@BQQv@?lE~@j@Sq@k@D_At@WJgBlAaAp@KjAp@~BTnAi@Je@e@mAk@h@k@eAPkAhB{A{@eE`@SbBz@b@m@}@sEZg@|ASxAwABo@aAoBzAoAHcEY_AYRuBm@qDr@yBaBrBoFs@_BBsC{@sC?oBh@aEnAwCJkFd@q@kBeCsA_F{@B{BkD{B[QsAcAm@sBqDe@Fc@_@uArAq@Qm@f@}AMYvAt@I{@LRGbBdKnBeBh@D`@fArBVhBvBrAl@t@dEnAKfCt@x@QbBnAAtCwAzCc@`GlAtEInBr@bB}BfFzA`B|@FvAo@rCh@j@W\\bAXOjKnE`BuAzD^jAj@LVi@rAl@hC~Ax@dBAk@|FdAvDz@xArAAv@bAdCb@|Ai@vBCpCiAHb@}@bANl@l@aAlCsAC_@iCuBiAUwAr@_Au@zAUNk@hCWhEpA|B{At@Z\\tAXo@[sAiBi@o@cALKdBx@vA?tBdCGzC{A`BZjDdArBdCj@jCeAnDx@r@SaAjEx@nBTfLe@rAwBz@v@jAdDnBLdAsCh@}AjAsC|@mCHw@vAiBrAu@jB`AbBrEMjAnAfABlAxFP`O~@nDyA~AQ~@kA|@iAzEI|CvAtAmDC]vB_Av@NlBn@j@dB_@r@vATMp@r@bAS|BR",
     "average_heartrate": 100.0,
     "average_speed": 0.7614520635751928,
-    "source": "Garmin Connect",
+    "source": "",
     "streak": 2
   }
 ]
