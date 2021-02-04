@@ -8190,6 +8190,21 @@
     "streak": 1
   },
   {
+    "run_id": 4671712176,
+    "name": "Afternoon Swim",
+    "distance": 800.0,
+    "moving_time": "0:12:30",
+    "type": "Swim",
+    "start_date": "2021-01-24 08:41:25+00:00",
+    "start_date_local": "2021-01-24 16:41:25",
+    "location_country": "\u4e2d\u56fd",
+    "summary_polyline": null,
+    "average_heartrate": null,
+    "average_speed": 1.067,
+    "source": "Strava",
+    "streak": 1
+  },
+  {
     "run_id": 1611658237000,
     "name": "Shenzhen Running",
     "distance": 1904.8889396051227,
