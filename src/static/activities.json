@@ -1,7 +1,7 @@
 [
   {
     "run_id": 1335767020000,
-    "name": "trip#track from foooooot.com",
+    "name": "\u56ed\u6d32-\u7f57\u6d6e\u5c71-\u56ed\u6d32",
     "distance": 42167.7936867521,
     "moving_time": "4:10:00",
     "type": "Ride",
@@ -136,7 +136,7 @@
   },
   {
     "run_id": 1366528109000,
-    "name": "trip#track from foooooot.com",
+    "name": "\u6881\u5316",
     "distance": 58273.9637638778,
     "moving_time": "3:12:46",
     "type": "Ride",
@@ -151,7 +151,7 @@
   },
   {
     "run_id": 1370931847000,
-    "name": "trip#track from foooooot.com",
+    "name": "\u6df1\u5733-\u60e0\u5dde",
     "distance": 81878.3478101209,
     "moving_time": "4:34:04",
     "type": "Ride",
@@ -166,7 +166,7 @@
   },
   {
     "run_id": 1371515101000,
-    "name": "trip#track from foooooot.com",
+    "name": "\u60e0\u5dde-\u6df1\u5733",
     "distance": 67175.8487952049,
     "moving_time": "5:14:35",
     "type": "Ride",
@@ -1576,7 +1576,7 @@
   },
   {
     "run_id": 5499331,
-    "name": "Ride from xingzhe",
+    "name": "\u534e\u84e5\u5c71\u5b9d\u9f0e",
     "distance": 99856.89771563651,
     "moving_time": "6:31:57",
     "type": "Ride",
@@ -2296,7 +2296,7 @@
   },
   {
     "run_id": 8182420,
-    "name": "2016-01-03 \u4e0a\u5348 \u9a91\u884c",
+    "name": "\u534e\u84e5\u5c71\u5b9d\u9f0e",
     "distance": 99387.92907690564,
     "moving_time": "5:39:38",
     "type": "Ride",
@@ -2761,7 +2761,7 @@
   },
   {
     "run_id": 32402626,
-    "name": "run from joyrun",
+    "name": "\u91cd\u5e86\u9a6c\u62c9\u677e \u5168\u9a6c",
     "distance": 42202.0,
     "moving_time": "3:39:05",
     "type": "Run",
@@ -2791,7 +2791,7 @@
   },
   {
     "run_id": 205420830,
-    "name": "Run from codoon",
+    "name": "2016 \u6210\u90fd\u53cc\u9057\u9a6c\u62c9\u677e \u5168\u9a6c",
     "distance": 42275.613,
     "moving_time": "5:20:37",
     "type": "Run",
@@ -3481,7 +3481,7 @@
   },
   {
     "run_id": 13623482,
-    "name": "2016-07-16 \u4e0a\u5348 \u9a91\u884c",
+    "name": "230\u516c\u91cc\u73af\u7ebf",
     "distance": 227615.29282703274,
     "moving_time": "11:39:15",
     "type": "Ride",
@@ -4411,7 +4411,7 @@
   },
   {
     "run_id": 18420095,
-    "name": "2016-11-24 \u4e0b\u5348 \u5f92\u6b65",
+    "name": "\u767d\u5e1d\u57ce-\u77f3\u5e99\u6751-\u5e73\u69fd\u6751-\u519b\u8425\u6751 \u5f92\u6b65",
     "distance": 14114.664426782982,
     "moving_time": "5:06:49",
     "type": "Hike",
@@ -4426,7 +4426,7 @@
   },
   {
     "run_id": 786578912,
-    "name": "Morning Hike",
+    "name": "\u77bf\u5858\u5ce1-\u5914\u95e8",
     "distance": 7001.0,
     "moving_time": "1:29:12",
     "type": "Hike",
@@ -4441,7 +4441,7 @@
   },
   {
     "run_id": 18469555,
-    "name": "2016-11-27 \u4e0a\u5348 \u5f92\u6b65",
+    "name": "\u4e09\u5ce1-\u57f9\u77f3\u6751",
     "distance": 2895.18047295749,
     "moving_time": "0:53:35",
     "type": "Hike",
@@ -4456,7 +4456,7 @@
   },
   {
     "run_id": 18471301,
-    "name": "2016-11-27 \u4e0a\u5348 \u81ea\u7531\u884c",
+    "name": "\u4e09\u5ce1-\u6e21\u8239",
     "distance": 19131.758024469258,
     "moving_time": "1:11:23",
     "type": "Rowing",
@@ -5071,7 +5071,7 @@
   },
   {
     "run_id": 106861748,
-    "name": "run from joyrun",
+    "name": "2017 Salomon\u8d8a\u91ce\u8dd1-\u91cd\u5e86\u7ad9",
     "distance": 16868.0,
     "moving_time": "2:34:59",
     "type": "Run",
@@ -5116,7 +5116,7 @@
   },
   {
     "run_id": 110121855,
-    "name": "run from joyrun",
+    "name": "2017 \u91cd\u5e86\u9a6c\u62c9\u677e \u5168\u9a6c",
     "distance": 52029.0,
     "moving_time": "4:29:59",
     "type": "Run",
@@ -5506,7 +5506,7 @@
   },
   {
     "run_id": 1511049686000,
-    "name": "running from Garmin Connect",
+    "name": "2019 \u6842\u6797\u9a6c\u62c9\u677e \u534a\u9a6c",
     "distance": 21384.17627787388,
     "moving_time": "2:07:44",
     "type": "Run",
@@ -6511,7 +6511,7 @@
   },
   {
     "run_id": 1538357709000,
-    "name": "walking from Garmin Connect",
+    "name": "\u60e0\u5dde \u5927\u5357\u5c71\u5f92\u6b65",
     "distance": 1491.2250822435774,
     "moving_time": "0:46:41",
     "type": "Hike",
@@ -6526,7 +6526,7 @@
   },
   {
     "run_id": 1538443591000,
-    "name": "walking from Garmin Connect",
+    "name": "\u60e0\u5dde \u5927\u5357\u5c71\u5f92\u6b65",
     "distance": 3693.9187946489,
     "moving_time": "1:43:17",
     "type": "Hike",
@@ -6541,7 +6541,7 @@
   },
   {
     "run_id": 1538624989000,
-    "name": "walking from Garmin Connect",
+    "name": "\u60e0\u5dde \u9ed1\u6392\u89d2 \u5f92\u6b65",
     "distance": 5355.504988606631,
     "moving_time": "1:54:29",
     "type": "Hike",
@@ -6571,7 +6571,7 @@
   },
   {
     "run_id": 1541892515000,
-    "name": "walking from Garmin Connect",
+    "name": "\u60e0\u5dde \u6881\u5316\u5f92\u6b65",
     "distance": 28454.757013283914,
     "moving_time": "6:00:44",
     "type": "Hike",
@@ -6721,7 +6721,7 @@
   },
   {
     "run_id": 1554517548000,
-    "name": "walking from Garmin Connect",
+    "name": "\u68a7\u6850\u5c71",
     "distance": 9389.686304116714,
     "moving_time": "3:25:18",
     "type": "Hike",
@@ -7336,7 +7336,7 @@
   },
   {
     "run_id": 1575156924000,
-    "name": "running from Garmin Connect",
+    "name": "\u6df1\u5733\u5b9d\u5b89\u56fd\u9645\u9a6c\u62c9\u677e-\u534a\u9a6c",
     "distance": 21146.978347745266,
     "moving_time": "2:52:51",
     "type": "Run",
@@ -7426,7 +7426,7 @@
   },
   {
     "run_id": 1576369251000,
-    "name": "running from Garmin Connect",
+    "name": "\u6df1\u5733\u56fd\u9645\u9a6c\u62c9\u677e-\u534a\u9a6c",
     "distance": 21355.430437205723,
     "moving_time": "2:29:50",
     "type": "Run",
@@ -7831,7 +7831,7 @@
   },
   {
     "run_id": 1595751314000,
-    "name": "cycling from Garmin Connect",
+    "name": "\u897f\u5b89\u57ce\u5899 \u9a91\u884c",
     "distance": 10252.499342733488,
     "moving_time": "0:36:54",
     "type": "Ride",
@@ -7921,7 +7921,7 @@
   },
   {
     "run_id": 1597669506000,
-    "name": "running from Garmin Connect",
+    "name": "Shenzhen Running",
     "distance": 2267.1730139807864,
     "moving_time": "0:13:41",
     "type": "Run",
@@ -7936,7 +7936,7 @@
   },
   {
     "run_id": 1599223485000,
-    "name": "running from Garmin Connect",
+    "name": "Shenzhen Running",
     "distance": 1961.2841664296573,
     "moving_time": "0:11:53",
     "type": "Run",
@@ -7951,7 +7951,7 @@
   },
   {
     "run_id": 1599569662000,
-    "name": "running from Garmin Connect",
+    "name": "Shenzhen Running",
     "distance": 2193.4188737707777,
     "moving_time": "0:13:26",
     "type": "Run",
@@ -7966,7 +7966,7 @@
   },
   {
     "run_id": 4136264552,
-    "name": "Afternoon Walk",
+    "name": "\u6765\u53e4\u51b0\u5ddd \u5f92\u6b65",
     "distance": 71.8,
     "moving_time": "0:02:04",
     "type": "Hike",
@@ -7981,7 +7981,7 @@
   },
   {
     "run_id": 1602380912000,
-    "name": "running from ",
+    "name": "Lhasa Running",
     "distance": 4011.116655465456,
     "moving_time": "0:39:18",
     "type": "Run",
@@ -7991,12 +7991,12 @@
     "summary_polyline": "ii}sDaabkP[cIcAuFEaFcA[gG`B`A~QhBvQcAbB_@zY}DQiWqGwAyCsBoIgDaIe@eI\\kOCm@q@IrBAWwBCiLdFwJBgJSq@L`@yDx@oBcC",
     "average_heartrate": 131.0,
     "average_speed": 1.701067283912407,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1603620813000,
-    "name": "running from ",
+    "name": "Shenzhen Running",
     "distance": 4207.518724797071,
     "moving_time": "0:36:14",
     "type": "Run",
@@ -8006,13 +8006,13 @@
     "summary_polyline": "skphCq|gvTYMBmBs@qDw@cAuCy@wAZmEM}@QWm@q@uGPoDe@AIo@V_Nq@kFnBa@jBeCx@cGUeB_DwBcCVwDlCsAW_BXkCrEAdChBxCv@b@lA_@f@aBv@q@pARdBvAjCMlCmC`@cGk@kBeAeAkC_@mB`@oCtByCGyDvGT|B`C|BpAGdA{Bj@WvAV|A~Av@jBaA|Ev@fF",
     "average_heartrate": 130.0,
     "average_speed": 1.9353811981587261,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1603715042000,
-    "name": "running from ",
-    "distance": 2834.162867136442,
+    "name": "Shenzhen Running",
+    "distance": 2834.1628671364424,
     "moving_time": "0:16:34",
     "type": "Run",
     "start_date": "2020-10-26 12:24:02",
@@ -8020,8 +8020,8 @@
     "location_country": "\u6df1\u5733\u5927\u5b66, 3688, \u5357\u6d77\u5927\u9053, \u6df1\u5733\u5927\u5b66\u5357\u6821\u533a, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518060, China \u4e2d\u56fd",
     "summary_polyline": "amohCk|kvTbG`CzCOt@|BQjBRbDw@tFJ|H}AlI@jD_ArFyArC}Av@H\\m@C]fAjAn@k@dEp@rCYxAi@f@TxAwA`GL`Bi@WExDs@jEkC~HlAhF@fDy@xAuJG",
     "average_heartrate": 150.0,
-    "average_speed": 2.8512704900769035,
-    "source": "",
+    "average_speed": 2.851270490076904,
+    "source": "Garmin Connect",
     "streak": 2
   },
   {
@@ -8056,10 +8056,10 @@
   },
   {
     "run_id": 4304451217,
-    "name": "Morning Run",
+    "name": "\u9999\u5c71\u516c\u56ed \u5f92\u6b65",
     "distance": 226.3,
     "moving_time": "0:01:29",
-    "type": "Run",
+    "type": "Hike",
     "start_date": "2020-11-07 21:56:49+00:00",
     "start_date_local": "2020-11-08 05:56:49",
     "location_country": "\u9999\u5c71\u516c\u56ed, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, China \u4e2d\u56fd",
@@ -8071,7 +8071,7 @@
   },
   {
     "run_id": 1605098519000,
-    "name": "running from ",
+    "name": "Shenzhen Running",
     "distance": 3174.3841228977917,
     "moving_time": "0:17:03",
     "type": "Run",
@@ -8081,12 +8081,12 @@
     "summary_polyline": "_uohCshlvTf@vAjIrFh@hAmBm@Pa@~BjBzCn@jBzAT|Am@xFj@zM}@nEM`CXvBo@lHcCvBRbAcFlBMdA`AjAVhBg@`Db@hB_@jCk@z@@nCcAzBgAlF]zJc@nBB`Bl@pBm@zCk@z@eLG",
     "average_heartrate": 142.0,
     "average_speed": 3.103014782891292,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1606394566000,
-    "name": "running from ",
+    "name": "Shenzhen Running",
     "distance": 2992.237160481951,
     "moving_time": "0:19:31",
     "type": "Run",
@@ -8096,13 +8096,13 @@
     "summary_polyline": "_oohCo`lvTl@h@?~AzA~A~Fh@lBrBRfDcCpFCzFH`@lC}Bg@jCd@rCk@zAa@dGoAxGoArEeA~AmB?e@nAbAl@OhJcBbNFdBaAxAsBnOKrKk@t@uFGyA]s@`@",
     "average_heartrate": 144.0,
     "average_speed": 2.5552836554073024,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1607156787000,
-    "name": "cycling from ",
-    "distance": 22648.359944480944,
+    "name": "Huizhou Cycling",
+    "distance": 22648.35994448094,
     "moving_time": "0:59:36",
     "type": "Ride",
     "start_date": "2020-12-05 08:26:27",
@@ -8110,14 +8110,14 @@
     "location_country": "\u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, 516002, China \u4e2d\u56fd",
     "summary_polyline": "qbclCi{ryT}A}CqKaJeKuLeA?{IpGcRrUeBrEMbBsKh`@gCdHg]{K_MwA}LgCe_@cAmi@xBup@{AaVuDeOaFiTuOeCcJkCmUe@qAwBgACyB`CaJlM_Z_AcGiBaF~AkHUuAPgA|K_RlH}RjN{YbHuL~GiI|HqN}G`MqIhK}FpJKPyNtZaIjTqKlQOv@XzB_B~GfBnE~@jGuNx[cBdIV~AhBr@l@dAtCfVrCnJxUjPjN`EjVhDdp@dBth@yBz_@hAvZ|ErUdIrEz@vDkJbOqh@lQqThJiGj@BhIhKhKzHlEdFdKkIf@L|FlJj@GrCaC",
     "average_heartrate": null,
-    "average_speed": 6.33343398894881,
-    "source": "",
+    "average_speed": 6.3334339889488085,
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1607767572000,
-    "name": "running from ",
-    "distance": 3605.544729299191,
+    "name": "Shenzhen Running",
+    "distance": 3605.5447292991907,
     "moving_time": "0:26:03",
     "type": "Run",
     "start_date": "2020-12-12 10:06:12",
@@ -8125,13 +8125,13 @@
     "location_country": "\u540e\u6d77\u6ee8\u8def, \u540e\u6d77, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, China \u4e2d\u56fd",
     "summary_polyline": "wtlhC_vkvTuAtCmAf@?hCYtBi@`@e@|I}@~CSbE{@BPv@UpDhAhEI~AsAjDPrDs@~CiGs@{LuEiBLH_AeJ}Ay@~AoB^mAlA{A~FuCdAV^JpGwBfFf@lAw@L_@rDcAlAShAA~CtAnIw@d@kJbA{EbB",
     "average_heartrate": 151.0,
-    "average_speed": 2.3068104474083118,
-    "source": "",
+    "average_speed": 2.3068104474083113,
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1609038993000,
-    "name": "walking from ",
+    "name": "Qingdao Walking",
     "distance": 3600.90989473262,
     "moving_time": "1:50:28",
     "type": "Hike",
@@ -8141,12 +8141,12 @@
     "summary_polyline": "mht{E}~d_VZsC}@i@Qb@sAAeCaAeBVSy@aCiB{@eD{GeEKiDaA}AOgBeDScGsDu@kAuASmByA{EaAaBaBaBHsBg@_EPs@tAuAp@kBCi@l@RJ_@o@}@CWwAc@Ss@|AQi@y@MuAh@Er@g@V_@UKb@iAm@g@b@c@_@o@PC_@gAzACe@iAs@cALqEeCI`@gAoBXM{@{Bd@WM}@YZ~B]K^d@n@_ANUUXaAr@d@Mf@J[_@k@PISJPQ{@Cq@h@Og@Z`@Sb@LhCjAjCTHCk@RB`EtBPYjATj@z@hAs@L^l@{@vBlBaAu@pAf@Je@y@`@JUUg@EX",
     "average_heartrate": 111.0,
     "average_speed": 0.5432875520115601,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1609492678000,
-    "name": "walking from ",
+    "name": "Wuhan Walking",
     "distance": 1308.013479324501,
     "moving_time": "0:34:30",
     "type": "Hike",
@@ -8156,12 +8156,12 @@
     "summary_polyline": "agmyDsqrxTLr@k@h@SvB_@Ze@|IeCa@aAzAsEp]|CzC[G\\LBr@Vg@x@CAdAg@ZeB[\\d@iFyDMu@Rn@X?",
     "average_heartrate": 100.0,
     "average_speed": 0.6318905697219812,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1609560627000,
-    "name": "cycling from ",
+    "name": "Wuhan Cycling",
     "distance": 11620.750094669329,
     "moving_time": "1:27:25",
     "type": "Ride",
@@ -8171,12 +8171,12 @@
     "summary_polyline": "_psyDecayTo@MTe@EoDy@HgCq@gC~@f@cFUoJqCmEyBkKiCcC}Asg@eAwD`@a@EwD`AhCyAvArAhDpWqNlOdDxZrDlDFjAwAhCoGhE{TpAwClJqGlHLlA[pN_Oh@wBnBqXF}Ae@kBf@Cx@hAlBF~^At@\\jDzF|GnFtFp@|SElEo@tAVpChDjBrE~@hG~BxGPhE`BtDx@~D`DfG~@x@dFlAlLs@rCRvFtOYbBmBtCcAlFItC`AnGQnGXzD|AtDnChBh@~ChCfBRn@aAz\\Ph@|@RjFDhFpAnQzG`@~FYt@]fMm@vC",
     "average_heartrate": 114.0,
     "average_speed": 2.215586290690053,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 2
   },
   {
     "run_id": 1610116495000,
-    "name": "walking from ",
+    "name": "Harbin Walking",
     "distance": 1266.9605078421052,
     "moving_time": "0:21:03",
     "type": "Hike",
@@ -8186,12 +8186,12 @@
     "summary_polyline": "askvGg|wcWhAg@nDGlAy@dD@zMuBWsARl@|AZrEa@dHj_@{@dB",
     "average_heartrate": 108.0,
     "average_speed": 1.0031357940159187,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1611658237000,
-    "name": "running from ",
+    "name": "Shenzhen Running",
     "distance": 1904.8889396051227,
     "moving_time": "0:13:01",
     "type": "Run",
@@ -8201,12 +8201,12 @@
     "summary_polyline": "mhohC_}kvT^pA~AxAxBP@nCi@rCxAhEAvAf@hB[n@_@_@H]RLW@g@`OiBjLo@p@Dr@k@fAcA`@Kp@u@Ic@v@t@v@OZlAhDUnByDbIfCvAKZ",
     "average_heartrate": 141.0,
     "average_speed": 2.4390383349617446,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1611663761000,
-    "name": "running from ",
+    "name": "Shenzhen Running",
     "distance": 3085.9458976461606,
     "moving_time": "0:17:42",
     "type": "Run",
@@ -8216,12 +8216,12 @@
     "summary_polyline": "i_qhCmsivT|AeBn@mGg@cCgC}AiCh@sClBoBYyAf@aChDYdCTnApCvBx@Yx@eB~@]vExBzCw@t@{Bf@{Fo@{BuB_AoCRsCvBeDMkDnEa@bCbAvB`CjAd@Kj@oB~@c@hAFrC`BdD{@`AgC\\{F}AyBkCg@",
     "average_heartrate": 155.0,
     "average_speed": 2.9057870975952547,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1611996808000,
-    "name": "running from ",
+    "name": "Shenzhen Running",
     "distance": 7080.305114004656,
     "moving_time": "0:43:36",
     "type": "Run",
@@ -8231,12 +8231,12 @@
     "summary_polyline": "ilphCeahvTOsCw@YUo@\\]UcEqD}BgDL_@yAsBRg@m@GeBBv@UGPgAH`@ULAcA_AoBBeC{@uD?cB|CsDhAbBhBEn@oAKUuGhAiAo@Xu@dA@jAo@jAwB@cD`@u@GuBi@iAoCmAaBh@gDhCiDa@yDxGHfCxAhBlA\\zBeCbGzA|CkA|@gCNoGgAsBcBs@kBd@}CtBaDSaBjDw@j@e@bBv@zCzAnAt@Kz@}AdAg@tEpBpBg@lBwD\\wEoBiD{@[eBPsDbCwBYy@PcApCiAdA[xBr@bCnAt@fAO`AsAdAa@tEfBhBa@pBmDh@oEy@mCcCuAsBXiDjCcDI}CnESvAn@lChAdA~A?pBmChARdCdBjCw@",
     "average_heartrate": 151.0,
     "average_speed": 2.7065386521424526,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 1
   },
   {
     "run_id": 1612062088000,
-    "name": "walking from ",
+    "name": "\u68a7\u6850\u5c71\u5f92\u6b65 \u6cf0\u5c71\u6da7-\u5927\u68a7\u6850-\u8774\u8776\u8c37",
     "distance": 13426.684237021374,
     "moving_time": "4:53:53",
     "type": "Hike",
@@ -8246,7 +8246,7 @@
     "summary_polyline": "yq{hCc~}wTEkBxAqEOwAl@iCnDs@z@}DzAgB~HYjBmAfD[rA_AfFrCnASrIvA~@uA|@SpEnBp@?lBcFA_Cb@O^n@q@zKLq@`@BQQv@?lE~@j@Sq@k@D_At@WJgBlAaAp@KjAp@~BTnAi@Je@e@mAk@h@k@eAPkAhB{A{@eE`@SbBz@b@m@}@sEZg@|ASxAwABo@aAoBzAoAHcEY_AYRuBm@qDr@yBaBrBoFs@_BBsC{@sC?oBh@aEnAwCJkFd@q@kBeCsA_F{@B{BkD{B[QsAcAm@sBqDe@Fc@_@uArAq@Qm@f@}AMYvAt@I{@LRGbBdKnBeBh@D`@fArBVhBvBrAl@t@dEnAKfCt@x@QbBnAAtCwAzCc@`GlAtEInBr@bB}BfFzA`B|@FvAo@rCh@j@W\\bAXOjKnE`BuAzD^jAj@LVi@rAl@hC~Ax@dBAk@|FdAvDz@xArAAv@bAdCb@|Ai@vBCpCiAHb@}@bANl@l@aAlCsAC_@iCuBiAUwAr@_Au@zAUNk@hCWhEpA|B{At@Z\\tAXo@[sAiBi@o@cALKdBx@vA?tBdCGzC{A`BZjDdArBdCj@jCeAnDx@r@SaAjEx@nBTfLe@rAwBz@v@jAdDnBLdAsCh@}AjAsC|@mCHw@vAiBrAu@jB`AbBrEMjAnAfABlAxFP`O~@nDyA~AQ~@kA|@iAzEI|CvAtAmDC]vB_Av@NlBn@j@dB_@r@vATMp@r@bAS|BR",
     "average_heartrate": 100.0,
     "average_speed": 0.7614520635751928,
-    "source": "",
+    "source": "Garmin Connect",
     "streak": 2
   }
 ]
