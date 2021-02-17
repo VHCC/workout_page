@@ -8248,5 +8248,20 @@
     "average_speed": 0.7614520635751928,
     "source": "Garmin Connect",
     "streak": 2
+  },
+  {
+    "run_id": 1613467599000,
+    "name": "Heyuan Cycling",
+    "distance": 10176.868090537002,
+    "moving_time": "0:25:05",
+    "type": "Ride",
+    "start_date": "2021-02-16 09:26:39",
+    "start_date_local": "2021-02-16 17:26:39",
+    "location_country": "\u56ed\u5858\u6751, \u9f99\u5ddd\u53bf, \u6cb3\u6e90\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+    "summary_polyline": "{ahtCo~i~ThEoA|S}Sb@hFxCjJQpTxClMFlLiEfU\\|AhDzDd@nAQbH`D|SE`MqErVy@`AcJhEwDxPbEsP|IwD`AaAnEoWDgO}CuSLuFyD{Fe@_B`E}TBoIQyDgCsKLwRkDoL[yCXyD`I_R~@mK_@mI~CgEr@{Dy@nDiDvE`@xKuAdKcGpMgAhEoIhKqH|GoBj@",
+    "average_heartrate": 144.0,
+    "average_speed": 6.762038598363456,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
