@@ -8263,5 +8263,20 @@
     "average_speed": 6.762038598363456,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1613730022000,
+    "name": "Huizhou Running",
+    "distance": 3587.7904758277145,
+    "moving_time": "0:28:10",
+    "type": "Run",
+    "start_date": "2021-02-19 10:20:22",
+    "start_date_local": "2021-02-19 18:20:22",
+    "location_country": "\u9648\u6c5f\u8857\u9053, \u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, 516006, \u4e2d\u56fd",
+    "summary_polyline": "kbmkCkquxTn@KWaAqAT[fEtCjCXkAe@_GiAKK`CxAtGQLHgBYe@`A_@{@oGm@@k@|@JhEx@pAz@u@IuFWYm@BBr@k@z@\\hBu@FXuDp@gAt@INtE}@rC{Ak@E{Bt@y@n@cCd@BJzD{@hDeAMk@qEn@kB|A_@d@~Ds@tB_@j@g@?_AkB~@_B^uCnAC^rCi@pDkAh@m@yDzAgD",
+    "average_heartrate": 149.0,
+    "average_speed": 2.1229529442767543,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
