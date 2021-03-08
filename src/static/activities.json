@@ -8218,5 +8218,20 @@
     "average_speed": 3.125058976102202,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1615096055000,
+    "name": "Shenzhen Walking",
+    "distance": 5651.1254719695025,
+    "moving_time": "2:18:00",
+    "type": "Hike",
+    "start_date": "2021-03-07 05:47:35",
+    "start_date_local": "2021-03-07 13:47:35",
+    "location_country": "\u5b9d\u5dfe\u8def, \u83b2\u5858\u8857\u9053, \u7f57\u6e56\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "}uwhCk}xwTYWaBd@aCK_C|@iBcAu@eB{AGHcB[m@wJaGeG{GwA|@uAIqBnA_AIGb@oA_Ag@Vy@_@o@Ho@z@DnAg@ZcC?oD{BbBdDtA^@bDUoCaAg@_AwAE}@{@UcCiDkD^B|@f@N\\a@xADyBQo@a@[Xa@[gANg@qAeBcBCuB~@aBx@]]mBJ}AeAM{AbAa@IR\\Uh@{@WT_@UHSe@}At@a@q@g@Ce@nAJn@TAk@{@FRbAIbAfBFy@tAQ^k@j@JjBqBhARVWa@kF]_@Ab@EQ\\DYVkBw@\\u@m@d@x@gA]MN[X^Iz@`A`@^_@Dd@`CvAK^n@XhAnEUhC|@@jBmAfAmDnA~B|@Wz@u@H_Rc@qAqAOnA?`@b@qAwEFk@zAb@jEtDh@i@JwA|@_@",
+    "average_heartrate": 104.0,
+    "average_speed": 0.6825030763248191,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
