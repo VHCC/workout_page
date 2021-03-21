@@ -8248,5 +8248,20 @@
     "average_speed": 2.804184132916486,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1616217860000,
+    "name": "Hangzhou Walking",
+    "distance": 11615.314575483717,
+    "moving_time": "2:46:14",
+    "type": "Hike",
+    "start_date": "2021-03-20 05:24:20",
+    "start_date_local": "2021-03-20 13:24:20",
+    "location_country": "\u94b1\u5858\u95e8\u5916, \u73af\u57ce\u897f\u8def, \u5317\u5c71\u8857\u9053, \u4e0b\u57ce\u533a, \u6d59\u6c5f\u7701, 310006, \u4e2d\u56fd",
+    "summary_polyline": "sxuwDkkj|Ux@vCxAGp@}@z@JbAfBbFoBoEjB{E|@~BdJJrCdBvFLbBxDrEjCj@dKfInBzCxCrApEhDxC`Et@Ab@pBg@XW~Af@uAdCxBg@nA^k@`@BzAx@hAjBtAnLUrAHfGmDpC_Cl@{@dBDpC\\\\vAhIX\\bB[vFcC`@ELb@tAk@`ALzAgAq@V?`An@zEvAtDYjF|@bDdKMtCr@\\`AjAp@jBGtEyAN`H^nAy@z@AlArAxBn@dDrAvB?w@m@JZJz@lC`AjAdBJv@j@^KTaAa@fB^c@d@f@p@rBo@WBp@j@In@`AxAAdAwAn@@^hATUtAvA@pAz@Ib@{@Hj@jA`@}@m@tEcI`C@bBmD`FiAhC}FzB{Az@gB`D|@bIkDlBmCfByIfO_LRqFfG}KdKnBba@fMrVw@|KbBxRfAtCm@`NuGlHwHrANbHbDfKz@pDdGl@?SwAZl@hBS",
+    "average_heartrate": null,
+    "average_speed": 1.164559311758945,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
