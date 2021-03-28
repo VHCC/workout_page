@@ -8025,6 +8025,21 @@
     "streak": 1
   },
   {
+    "run_id": 1607160383000,
+    "name": "Huizhou Cycling",
+    "distance": 10859.843117544338,
+    "moving_time": "0:27:55",
+    "type": "Ride",
+    "start_date": "2020-12-05 09:26:23",
+    "start_date_local": "2020-12-05 17:26:23",
+    "location_country": "\u60e0\u57ce\u533a, \u60e0\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+    "summary_polyline": "q}klCuhxyTyNtZaIjTqKlQOv@XzB_B~GfBnE~@jGuNx[cBdIV~AhBr@l@dAtCfVrCnJxUjPjN`EjVhDdp@dBth@yBz_@hAvZ|ErUdIrEz@vDkJbOqh@lQqThJiGj@BhIhKhKzHlEdFdKkIf@L|FlJj@GrCaC",
+    "average_heartrate": 139.0,
+    "average_speed": 6.483488428384679,
+    "source": "Garmin Connect",
+    "streak": 1
+  },
+  {
     "run_id": 1607767572000,
     "name": "Shenzhen Running",
     "distance": 3605.544729299191,
@@ -8278,5 +8293,20 @@
     "average_speed": 1.403044399375022,
     "source": "Garmin Connect",
     "streak": 2
+  },
+  {
+    "run_id": 1616827419000,
+    "name": "Wanning Walking",
+    "distance": 3791.13005069173,
+    "moving_time": "1:57:40",
+    "type": "Hike",
+    "start_date": "2021-03-27 06:43:39",
+    "start_date_local": "2021-03-27 14:43:39",
+    "location_country": "\u5174\u9686\u534e\u4fa8\u519c\u573a, \u4e07\u5b81\u5e02, \u6d77\u5357\u7701, \u4e2d\u56fd",
+    "summary_polyline": "ocjqBygq_TcB`EaAIIu@h@u@zBa@b@xA_@~BJnB[\\Ef@PIq@R]vCbJfG~DoE{CsAV_AQ_@i@DKzAqBYeAu@}@dA]kCu@ReAm@Q_AZsAaA_A{AhDuAj@If@Ai@\\\\YKdAIcAFE^q@m@bAkDf@KtA_DpCk@psKqbZrBlANnAjC|FpIfN|@pD~Ii@jCf@fCdByBuA{Cq@kLn@x@sDcAuBuCaCcMsU",
+    "average_heartrate": 91.0,
+    "average_speed": 0.5369872593047776,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
