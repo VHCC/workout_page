@@ -8308,5 +8308,20 @@
     "average_speed": 0.5369872593047776,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1617518689000,
+    "name": "\u4e50\u5c71\u5e02 \u6b65\u884c",
+    "distance": 4533.214681343303,
+    "moving_time": "1:51:00",
+    "type": "Hike",
+    "start_date": "2021-04-04 06:44:49",
+    "start_date_local": "2021-04-04 14:44:49",
+    "location_country": "3, 13, K1, \u51cc\u4e91\u8def, \u4e5d\u5cf0, \u5e02\u4e2d\u533a, \u5927\u4f5b\u8857\u9053, \u5e02\u4e2d\u533a, \u4e50\u5c71\u5e02, \u56db\u5ddd\u7701, 614000, \u4e2d\u56fd",
+    "summary_polyline": "qcmsDeakxR`RdBzAhABeAzD@bJn@hQpCzFGfN~@kBLj@XvDuAnBBqAHrAe@`@aA?bBl@\\IXn@F_@Jn@RSHLZ|@|@nAZPp@~@O`@f@S[HPl@YlAfACm@^I^ZKn@\\o@j@Fi@Ch@Bg@DTNdAy@DXLiA`@@g@\\d@g@y@V|@SYs@\\QOp@MO^I[?fAQ_AQd@j@YPCYPLWPHe@`@VImAA^D_@C\\LSt@b@}@YZc@MVh@KOZSSDVVU_@@Jh@[v@TJS_@RX[A\\OKYcAdAd@Zk@O`@\\_@`@d@hA[YFY^n@{Bk@gC~@Ya@^DIx@I]TA|BpEBmB{DuDXBc@}@VeBx@Ok@lANPu@@f@Cg@QKkD~AZwBqAe@}@fAGZg@Gs@^GNo@c@{DaCuAwB[mAfIi@x@eDxA",
+    "average_heartrate": 95.0,
+    "average_speed": 0.6806628650665619,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
