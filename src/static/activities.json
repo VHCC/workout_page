@@ -8311,7 +8311,7 @@
   },
   {
     "run_id": 1617518689000,
-    "name": "\u4e50\u5c71\u5e02 \u6b65\u884c",
+    "name": "\u4e50\u5c71\u5927\u4f5b",
     "distance": 4533.214681343303,
     "moving_time": "1:51:00",
     "type": "Hike",
@@ -8326,7 +8326,7 @@
   },
   {
     "run_id": 1617588453000,
-    "name": "\u4e50\u5c71\u5e02 \u6b65\u884c",
+    "name": "\u5ce8\u7709\u5c71 \u91d1\u9876",
     "distance": 2523.3986085440906,
     "moving_time": "0:52:34",
     "type": "Hike",
@@ -8341,7 +8341,7 @@
   },
   {
     "run_id": 1617604717000,
-    "name": "\u4e50\u5c71\u5e02 \u6b65\u884c",
+    "name": "\u5ce8\u7709\u5c71\u4e94\u663e\u5c97 \u751f\u6001\u7334\u533a",
     "distance": 7011.600864931762,
     "moving_time": "2:07:51",
     "type": "Hike",
@@ -8356,7 +8356,7 @@
   },
   {
     "run_id": 1617685280000,
-    "name": "\u6210\u90fd\u5e02 \u6b65\u884c",
+    "name": "\u6210\u90fd \u90fd\u6c5f\u5830",
     "distance": 1974.3807829515847,
     "moving_time": "0:38:18",
     "type": "Hike",
@@ -8386,7 +8386,7 @@
   },
   {
     "run_id": 1618629089000,
-    "name": "\u6df1\u5733\u5e02 \u6b65\u884c",
+    "name": "\u4e1c\u897f\u51b2\u7a7f\u8d8a",
     "distance": 5980.943673608787,
     "moving_time": "2:10:16",
     "type": "Hike",
