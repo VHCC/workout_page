@@ -8428,5 +8428,20 @@
     "average_speed": 0.6951476071749451,
     "source": "Garmin Connect",
     "streak": 2
+  },
+  {
+    "run_id": 1620643483000,
+    "name": "Shenzhen Running",
+    "distance": 3129.099850180038,
+    "moving_time": "0:15:57",
+    "type": "Run",
+    "start_date": "2021-05-10 10:44:43",
+    "start_date_local": "2021-05-10 18:44:43",
+    "location_country": "\u51ac\u7b51, \u79d1\u56ed\u8def, \u6df1\u5733\u5e02\u8f6f\u4ef6\u4ea7\u4e1a\u57fa\u5730, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "szohC}tlvTPrAiJtBqEhBWbALl@n@dB|KdNd@~AfDlDfIfGvJlDo@vE~@|Mw@hCoBbAd@pB[pA`Fv@jDk@Tt@QdCiFs@oD?{@b@iAlG`@x@yAhCa@bCFrAe@vA",
+    "average_heartrate": 148.0,
+    "average_speed": 3.2696968131452855,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
