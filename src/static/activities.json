@@ -8518,5 +8518,35 @@
     "average_speed": 5.282907098851926,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1626614555000,
+    "name": "Shenzhen Cycling",
+    "distance": 11533.238850471844,
+    "moving_time": "0:24:58",
+    "type": "Ride",
+    "start_date": "2021-07-18 13:22:35",
+    "start_date_local": "2021-07-18 21:22:35",
+    "location_country": "\u6842\u6e7e\u56db\u8def, \u524d\u6d77\u5408\u4f5c\u533a, \u5357\u5c71\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "{kphCcqevTh@`x@Q|CNnLm@x@_b@TkB}@iJgMn@u@pFm@f]EzH|@n@`BAbLcA^{GLeXCoAg@iA{AqHyJHi@|Fy@p]KdIx@r@`BJhK[n@cDPy]D_B}@cJyLf@aA`Eg@r`@I~En@j@Nf@`BLdKs@v@kCLy]?wAu@qJiMj@{@~Di@db@EpEr@p@rAXhMTeAq@uwA",
+    "average_heartrate": null,
+    "average_speed": 7.699091355455169,
+    "source": "Garmin Connect",
+    "streak": 1
+  },
+  {
+    "run_id": 1626614828000,
+    "name": "New Territories Cycling",
+    "distance": 9662.782932618828,
+    "moving_time": "0:20:27",
+    "type": "Ride",
+    "start_date": "2021-07-18 13:27:08",
+    "start_date_local": "2021-07-18 21:27:08",
+    "location_country": "\u524d\u6d77\u5730\u4e0b\u9053\u8def, \u524d\u6d77\u5408\u4f5c\u533a, \u5357\u5c71\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "esqhCiecvTmI_MHq@`Gu@j_@ExG~@d@r@FhMsA|@gPd@gPk@yAy@}IiMHs@lEq@z^ItHh@|AxAU`Mw@`@wOp@kRm@iKiNEgA|Es@d^IxI`Ar@nAKxLo@d@gG|@iCKw@ZyA_@mJQuAm@uBXe@Q}KgOx@q@rEe@``@CzFx@p@tATxM?kT}@gH^oDUkBd@oADsQc@oJLkR",
+    "average_heartrate": 150.0,
+    "average_speed": 7.8751287144407724,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
