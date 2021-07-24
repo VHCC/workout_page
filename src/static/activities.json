@@ -4425,21 +4425,6 @@
     "streak": 2
   },
   {
-    "run_id": 788811931,
-    "name": "Evening Ride",
-    "distance": 0.0,
-    "moving_time": "0:56:00",
-    "type": "Ride",
-    "start_date": "2016-11-29 12:29:00+00:00",
-    "start_date_local": "2016-11-29 20:29:00",
-    "location_country": "",
-    "summary_polyline": null,
-    "average_heartrate": 143.4,
-    "average_speed": 0.0,
-    "source": "Strava",
-    "streak": 1
-  },
-  {
     "run_id": 91497408,
     "name": "run from joyrun",
     "distance": 7174.0,
@@ -8310,6 +8295,21 @@
     "streak": 1
   },
   {
+    "run_id": 1616837158000,
+    "name": "\u7ec1\u70b2\u7a9e\u9357\u5a42\u77dd",
+    "distance": 1841.4338953629867,
+    "moving_time": "0:56:05",
+    "type": "Hike",
+    "start_date": "2021-03-27 09:25:58",
+    "start_date_local": "2021-03-27 17:25:58",
+    "location_country": "\u795e\u5dde\u534a\u5c9b, \u8e0f\u5934, \u4e07\u5b81\u5e02, \u6d77\u5357\u7701, 571500, \u4e2d\u56fd",
+    "summary_polyline": "cr}pB{jl`TrBlANnAjC|FpIfN|@pD~Ii@jCf@fCdByBuA{Cq@kLn@x@sDcAuBuCaCcMsU",
+    "average_heartrate": 108.0,
+    "average_speed": 0.5472314696472472,
+    "source": "Garmin Connect",
+    "streak": 1
+  },
+  {
     "run_id": 1617518689000,
     "name": "\u4e50\u5c71\u5927\u4f5b",
     "distance": 4533.214681343303,
@@ -8467,7 +8467,7 @@
     "type": "Run",
     "start_date": "2021-05-31 10:20:56",
     "start_date_local": "2021-05-31 18:20:56",
-    "location_country": "\u79d1\u56ed\u8def, \u6df1\u5733\u5e02\u8f6f\u4ef6\u4ea7\u4e1a\u57fa\u5730, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u9f99\u866c\u5e84\u6587\u5316",
+    "location_country": "\u79d1\u56ed\u8def, \u6df1\u5733\u5e02\u8f6f\u4ef6\u4ea7\u4e1a\u57fa\u5730, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
     "summary_polyline": "c{ohCexlvT@jD{Bh@iKpF@n@zBjEhRjVlEjDjKjFVhHe@xBZrCmChF_BjAIz@rDbCjHPTnAUrAkE{@}E^uBzBS~Eo@|ABvFo@z@",
     "average_heartrate": 142.0,
     "average_speed": 2.926206352112958,
@@ -8482,7 +8482,7 @@
     "type": "Run",
     "start_date": "2021-06-19 13:01:04",
     "start_date_local": "2021-06-19 21:01:04",
-    "location_country": "\u5357\u5149\u8def, \u5357\u5934\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u9f99\u866c\u5e84\u6587\u5316",
+    "location_country": "\u5357\u5149\u8def, \u5357\u5934\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
     "summary_polyline": "ucqhCisivTnBUbAeA~AgGQmCkD{B_BXeD`CaE@gDrFHnC`BdC~ANp@_@r@uBx@WdBrB~@NnB[zAaAxAyGo@cDmAeAeBa@wBr@kCjBcDSw@vBiAhA}@|D@l@x@z@hBt@tAG`AaBj@Iv@BfBxAlBh@nAUvAsCf@mGo@uCuA{AqAW{@PqElCmCYc@\\U`BoAnAg@hFv@bAlCf@jAeCvBSZX",
     "average_heartrate": 155.0,
     "average_speed": 2.5188130608421946,
