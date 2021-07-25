@@ -8563,5 +8563,20 @@
     "average_speed": 7.549570385518003,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1627133257000,
+    "name": "Shenzhen Cycling",
+    "distance": 7250.52050405785,
+    "moving_time": "0:18:17",
+    "type": "Ride",
+    "start_date": "2021-07-24 13:27:37",
+    "start_date_local": "2021-07-24 21:27:37",
+    "location_country": "\u6842\u6e7e\u56db\u8def, \u524d\u6d77\u5408\u4f5c\u533a, \u5357\u5c71\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "wkphCqzevT?pS`@xGYrMt@vUk@fCPtM}Bv@s_@@eBu@gJ_MXgAfFk@nc@HtCj@r@nBFpJgBjA_`@DiBq@oJ{Lh@uAfFc@p_@G~Hh@RiAu@qbB",
+    "average_heartrate": 152.0,
+    "average_speed": 6.609407934419189,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
