@@ -8623,5 +8623,20 @@
     "average_speed": 7.996146733708647,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1627819256000,
+    "name": "Shenzhen Cycling",
+    "distance": 41863.4264452322,
+    "moving_time": "1:21:26",
+    "type": "Ride",
+    "start_date": "2021-08-01 12:00:56",
+    "start_date_local": "2021-08-01 20:00:56",
+    "location_country": "\u6842\u6e7e\u56db\u8def, \u524d\u6d77\u5408\u4f5c\u533a, \u5357\u5c71\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "alphCyyevTf@t]OnU^`_@iAp@ka@?eBu@wJcNxAy@~EYn^MbG`Al@hBJ|Jy@t@yELw[AwA_AwIiLr@sAbC[bc@MxEt@x@~AJfKyAbAma@HyA_A_JwLn@eApFe@``@GzEz@p@|APrFAvCgAv@}a@LkAq@iJ}Lj@iA`Fi@fc@FnCl@f@xALpKqAx@ma@F{As@kJmMd@{@hEi@z`@C|Fz@r@jBJfKkAr@uFHaZBaBgA_JsLx@iAjFc@p_@GhFx@x@lBHdKyAx@aFF_[MeLgNf@iAhGk@j]CtGt@hAjBHtICt@{Az@u`@FcBu@eJwLl@{A~B[d`@KhETnCp@f@bB?tKkDj@i^@wAo@qJiMx@mAbF]l_@KdEj@`AVf@`BHhKaBt@qBJu]Cy@[eK}Mp@cAzEe@ba@G`F`Aj@zAJbKsAbAqBFo]BeBy@iJ{Lv@oAbFc@b_@KrFz@dAlBBvKiAj@uBBu^CqLcOx@y@hFa@f]IvHx@z@bBJhKcC`Am`@@cBoAoIeL`AkAdCWp_@ShF^jBb@l@xAFdKoAbAaCJu]DiCaCkHwJp@kAbFe@h]KpFf@tAXn@fBE`LsBb@q_@D_Bs@sJiMj@_AlFi@b_@KxGbAd@hBHrJoAbAkCLe]EgBeAyImLp@iAnFe@p]M~Gx@fAnBBjKeAn@eCLe]AgBw@mJgMjAcA`Fe@n_@?fC\\`BZv@bBDjKmAx@mBJw]A{Aq@sJkMbAcAlFa@r]KfDF~Cn@p@_Bm@_r@JeR",
+    "average_heartrate": 161.0,
+    "average_speed": 8.568036521742162,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
