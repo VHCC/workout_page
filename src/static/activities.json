@@ -8638,5 +8638,20 @@
     "average_speed": 8.568036521742162,
     "source": "Garmin Connect",
     "streak": 1
+  },
+  {
+    "run_id": 1628327327000,
+    "name": "New Territories Cycling",
+    "distance": 39517.955334180726,
+    "moving_time": "1:22:41",
+    "type": "Ride",
+    "start_date": "2021-08-07 09:08:47",
+    "start_date_local": "2021-08-07 17:08:47",
+    "location_country": "\u6842\u6e7e\u56db\u8def, \u524d\u6d77\u5408\u4f5c\u533a, \u5357\u5c71\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "summary_polyline": "alphCsaevTTzEInAa@FAlDt@vPDb[uAf@aa@JaBw@cJ_MAo@t@]|Gk@va@NbCh@`@lBL`K_Bv@w`@JeB}@gJoM|@q@vB]zPSrNCjIhAd@|ANbKkA|@_a@JoB{@eJ{L|@iA~Ea@z]KdH|@h@~@TlLeAr@{NTuROgLqNt@_A~Ec@r_@OpFz@j@~AVtKgAl@sJVyUEeB}@eJgMr@{@jFc@~^OhGhAp@pE?nG{@p@mNTiRCiAe@{J{Mh@w@fB_@xNUzTB~Dx@d@PTrAVlKkAr@yJTcUG}Aq@}J_NzAw@|Ec@n]K~G`Ad@~ATpKeBt@yBDe]J{LoO|@s@pB]vMU~T@zEz@f@`BTbKyAz@yFPmX?yBcAyIkLJaA~Fy@j]QbFb@bBb@l@pBJtJ{AbAwBLq]GaBcA}IyLPm@r@UtEi@la@C`E`Al@nBF~JG\\qB`@a`@@mBoAsIiLx@gAlFm@h_@ChFx@x@fBHjKeB~@q`@FcB}@cJ}LC_@t@k@nDe@`d@CdDx@j@~AHfKwAbA{`@NiBcA}IyL|@kAhCe@f_@IhF\\jB^^h@VxDKjHuA\\{LXcSOaBy@{IgM`@s@`Eo@b`@QpD\\`Cr@TrAJhKmAv@wNXaRMcAo@oJiMf@{@~Eo@v]IlHv@`A~AJpKmB|@c`@LmBgA}I{Ld@s@bFk@fRFhJ]hFZhBb@p@jBAfKgAt@ga@NaBs@kJiMz@eAnDg@vSBpM]fGdAPYq@wjBu@kAh@H",
+    "average_heartrate": 148.0,
+    "average_speed": 7.965723711788092,
+    "source": "Garmin Connect",
+    "streak": 1
   }
 ]
