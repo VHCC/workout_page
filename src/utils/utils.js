@@ -235,4 +235,5 @@ export {
   getBoundsForGeoData,
   filterTypeRuns,
   colorFromType,
+  formatRunTime,
 };
