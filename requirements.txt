@@ -19,3 +19,6 @@ pycrypto
 html.parser
 aiofiles
 lxml
+# if you need to import kml file
+fastkml
+eviltransform
