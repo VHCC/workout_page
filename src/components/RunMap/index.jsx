@@ -91,7 +91,7 @@ const RunMap = ({
           type="fill"
           paint={{
             'fill-color': COUNTRY_FILL_COLOR,
-            'fill-opacity': 0.7,
+            'fill-opacity': 0.5,
           }}
           filter={filterCountries}
         />
