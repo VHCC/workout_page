@@ -45,6 +45,7 @@ const RUN_TITLES = {
   HIKE_TITLE,
   ROWING_TITLE,
   SWIM_TITLE,
+  ROAD_TRIP_TITLE,
 };
 
 export {
