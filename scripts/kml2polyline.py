@@ -61,11 +61,16 @@ def load_kml_data(track, k):
 if __name__ == "__main__":
     track = Track()
     # TODO modify here
-    track.name = "2020-10 西藏 Road Trip"
+    # trip name
+    track.name = "2020-10 Tibet Road Trip"
+    # start/end time Year-Month-Day-Hour-Minute
     track.start_time = datetime(2020, 9, 29, 10, 0)
     track.end_time = datetime(2020, 10, 10, 18, 0)
+    # total distance
     distance = 4000  # KM
+    # total days
     days = 12
+    # average daily distacnce
     hours_per_day = 6
     track.type = "RoadTrip"
     track.source = "Google Maps"
