@@ -103,7 +103,7 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 <details>
 <summary>导入谷歌地图的KML路书</summary>
 
-1. 使用 [谷歌地图](#https://www.google.com/maps/d/) ，创建地图(路线放到同一个图层)
+1. 使用 [谷歌地图](https://www.google.com/maps/d/) ，创建地图(路线放到同一个图层)
 2. 把图层导出为KML文件
 3. 把kml文件重命名为 `import.kml`, 放到 `scripts`目录
 4. 修改`scripts/kml2polyline.py`, 填入路线相关信息

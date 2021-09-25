@@ -86,7 +86,7 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 <details>
 <summary>Import KMl from Google Maps</summary>
 
-1. Create map in  [Google Maps](#https://www.google.com/maps/d/) (keep route in one Layer)
+1. Create map in  [Google Maps](https://www.google.com/maps/d/) (keep route in one Layer)
 2. Export Layer to KML file
 3. Rename the file to `import.kml` and place it into `scripts`
 4. Modify `scripts/kml2polyline.py`, fill in the trip info
