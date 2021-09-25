@@ -74,3 +74,4 @@ export const SWIM_COLOR = gold;
 export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
+export const COUNTRY_FILL_COLOR = wpink;

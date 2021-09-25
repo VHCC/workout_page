@@ -7,6 +7,7 @@ import {
   MAIN_COLOR,
   MAPBOX_TOKEN,
   PROVINCE_FILL_COLOR,
+  COUNTRY_FILL_COLOR,
 } from 'src/utils/const';
 import { geoJsonForMap } from 'src/utils/utils';
 import RunMarker from './RunMaker';
@@ -22,7 +23,7 @@ const RunMap = ({
   thisYear,
   mapButtonYear,
 }) => {
-  const { provinces } = useActivities();
+  const { countries, provinces } = useActivities();
   const addControlHandler = (event) => {
     const map = event && event.target;
     // set language to Chinese if you use English please comment it
@@ -39,8 +40,10 @@ const RunMap = ({
     }
   };
   const filterProvinces = provinces.slice();
+  const filterCountries = countries.slice();
   // for geojson format
   filterProvinces.unshift('in', 'name');
+  filterCountries.unshift('in', 'name');
 
   const isBigMap = viewport.zoom <= 3;
   if (isBigMap && IS_CHINESE) {
@@ -82,6 +85,15 @@ const RunMap = ({
             'fill-opacity': 0.2,
           }}
           filter={filterProvinces}
+        />
+        <Layer
+          id="countries"
+          type="fill"
+          paint={{
+            'fill-color': COUNTRY_FILL_COLOR,
+            'fill-opacity': 0.7,
+          }}
+          filter={filterCountries}
         />
         <Layer
           id="runs2"
