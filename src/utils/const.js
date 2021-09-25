@@ -14,7 +14,7 @@ const MUNICIPALITY_CITIES_ARR = [
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) =>
-  `App/手表 记录自己户外运动 ${yearLength} 年了，下面列表展示的是 ${year} 的数据`;
+  `户外运动 ${yearLength} 年，下面列表展示的是 ${year} 年的数据`;
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Outdoor Workouts Journey in ${yearLength} Years, the table shows year ${year} data`;
 
