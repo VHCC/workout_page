@@ -10,7 +10,7 @@ This project is based on [running_page](https://github.com/yihong0618/running_pa
 1. support new apps
     - **[Codoon（咕咚）](#codoon咕咚)** (Couldn't automate for its limitation from server side)
     - **[Xingzhe（行者）](#xingzhe行者)**
-1. support [RoadTrip(GoogleMaps)](#RoadTrip(GoogleMaps)) , show Road Trip in maps
+1. support [RoadTrip(GoogleMaps)](#roadtripgooglemaps) , show Road Trip in maps
 
 
 
@@ -86,7 +86,7 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 <details>
 <summary>Import KMl from Google Maps</summary>
 
-1. Create map in  [Google Maps](#https://www.google.com/maps/d/)
+1. Create map in  [Google Maps](#https://www.google.com/maps/d/) (keep route in one Layer)
 2. Export Layer to KML file
 3. Rename the file to `import.kml` and place it into `scripts`
 4. Modify `scripts/kml2polyline.py`, fill in the trip info
@@ -108,7 +108,7 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
   ```python
   python3(python) scripts\kml2polyline.py
   ```
-
+</details>
 
 # Special thanks
 - @[yihong0618](https://github.com/yihong0618) for Awesome [running_page](https://github.com/yihong0618/running_page) , Great Thanks
