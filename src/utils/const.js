@@ -34,6 +34,7 @@ const INDOOR_RIDE_TITLE = IS_CHINESE ? '室内骑行' : 'Indoor Ride';
 const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
 const ROWING_TITLE = IS_CHINESE ? '划船' : 'Rowing';
 const ROAD_TRIP_TITLE = IS_CHINESE ? '自驾' : 'RoadTrip';
+const FLIGHT_TITLE = IS_CHINESE ? '飞行' : 'Flight';
 
 const RUN_TITLES = {
   FULL_MARATHON_RUN_TITLE,
@@ -46,6 +47,7 @@ const RUN_TITLES = {
   ROWING_TITLE,
   SWIM_TITLE,
   ROAD_TRIP_TITLE,
+  FLIGHT_TITLE,
 };
 
 export {
@@ -74,5 +76,6 @@ export const HIKE_COLOR = pink;
 export const SWIM_COLOR = gold;
 export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;
+export const FLIGHT_COLOR = wpink;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = wpink;

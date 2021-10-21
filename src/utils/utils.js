@@ -1,7 +1,17 @@
 import * as mapboxPolyline from '@mapbox/polyline';
 import { WebMercatorViewport } from 'react-map-gl';
 import { chinaGeojson } from '../static/run_countries';
-import { MUNICIPALITY_CITIES_ARR, RUN_TITLES, MAIN_COLOR, RIDE_COLOR, HIKE_COLOR, SWIM_COLOR, ROWING_COLOR, ROAD_TRIP_COLOR } from './const';
+import {
+  MUNICIPALITY_CITIES_ARR,
+  RUN_TITLES,
+  MAIN_COLOR,
+  RIDE_COLOR,
+  HIKE_COLOR,
+  SWIM_COLOR,
+  ROWING_COLOR,
+  ROAD_TRIP_COLOR,
+  FLIGHT_COLOR
+} from './const';
 
 const titleForShow = (run) => {
   const date = run.start_date_local.slice(0, 11);
@@ -146,6 +156,8 @@ const titleForRun = (run) => {
       return RUN_TITLES.SWIM_TITLE;
     case 'RoadTrip':
       return RUN_TITLES.ROAD_TRIP_TITLE;
+    case 'Flight':
+      return RUN_TITLES.FLIGHT_TITLE;
     default:
       return RUN_TITLES.RUN_TITLE;
   }
@@ -166,8 +178,10 @@ const colorFromType = (workoutType) => {
       return SWIM_COLOR;
     case 'RoadTrip':
       return ROAD_TRIP_COLOR;
+    case 'Flight':
+      return FLIGHT_COLOR;
     default:
-      return MAIN_COLOR
+      return MAIN_COLOR;
   }
 };
 

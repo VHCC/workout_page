@@ -34,6 +34,7 @@ TYPE_DICT = {
     "Swim": "Swim",
     "rowing": "Rowing",
     "RoadTrip": "RoadTrip",
+    "flight": "Flight",
 }
 
 MAPPING_TYPE = ["Hike", "Ride", "Rowing", "Run", "Swim", "RoadTrip"]
