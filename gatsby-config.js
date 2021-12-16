@@ -1,22 +1,35 @@
 module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Workouts Map',
-    siteUrl: 'https://ben29.xyz',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+    siteTitle: 'iChen Workout Map',
+    siteUrl: 'https://github.com/VHCC',
+    logo: 'https://avatars.githubusercontent.com/u/11642721?s=400&u=4412167a6753900e7ba89622e3cfb199f98e7866&v=4',
     description: 'Personal site and blog',
     navLinks: [
       {
+        name: 'Strava',
+        url: 'https://www.strava.com/athletes/47512046',
+      },
+      {
         name: 'Blog',
-        url: 'https://ben29.xyz',
+        url: 'https://hexo.ichenprocin.dsmynas.com/VHCC/',
       },
       {
         name: 'About',
-        url: 'https://github.com/ben-29/running_page/blob/master/README-CN.md',
+        url: 'https://vhcc.github.io/',
       },
     ],
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-google-fonts',
+      options: {
+        fonts: [
+          'IBM Plex Mono',
+        ],
+        display: 'swap'
+      }
+    },
     'gatsby-transformer-json',
     {
       resolve: 'gatsby-source-filesystem',
@@ -77,7 +90,7 @@ module.exports = {
         background_color: '#e1e1e1',
         theme_color: '#e1e1e1',
         display: 'minimal-ui',
-        icon: 'src/images/favicon.png', // This path is relative to the root of the site.
+        icon: 'src/images/pig-icon-png-14.jpg', // This path is relative to the root of the site.
       },
     },
     'gatsby-transformer-sharp',
@@ -86,7 +99,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        policy: [{ userAgent: '*', allow: '/' }],
+        policy: [{userAgent: '*', allow: '/'}],
       },
     },
   ],

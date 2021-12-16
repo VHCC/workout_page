@@ -111,11 +111,13 @@ def parse_raw_data_to_nametuple(run_data, old_gpx_ids, with_download_gpx=False):
         "end": datetime.strftime(end, "%Y-%m-%d %H:%M:%S"),
         "start_date_local": datetime.strftime(start_date_local, "%Y-%m-%d %H:%M:%S"),
         "end_local": datetime.strftime(end_local, "%Y-%m-%d %H:%M:%S"),
-        "length": run_data["distance"],
+        # "length": run_data["distance"],
+        "length": 100,
         "average_heartrate": int(heart_rate) if heart_rate else None,
         "map": run_map(polyline_str),
         "start_latlng": start_latlng,
-        "distance": run_data["distance"],
+        # "distance": run_data["distance"],
+        "distance": 100,
         "moving_time": timedelta(seconds=run_data["duration"]),
         "elapsed_time": timedelta(
             seconds=int((run_data["endTime"] - run_data["startTime"]) / 1000)

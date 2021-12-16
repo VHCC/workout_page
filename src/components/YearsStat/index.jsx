@@ -2,6 +2,7 @@ import React from 'react';
 import YearStat from 'src/components/YearStat';
 import useActivities from 'src/hooks/useActivities';
 import { INFO_MESSAGE } from 'src/utils/const';
+import { CHINESE_INFO_MESSAGE_FIRST } from 'src/utils/const';
 
 const YearsStat = ({ year, onClick }) => {
   const { years } = useActivities();
@@ -19,8 +20,9 @@ const YearsStat = ({ year, onClick }) => {
           {INFO_MESSAGE(years.length, year)}
           <br />
         </p>
+        <h3>{CHINESE_INFO_MESSAGE_FIRST}</h3>
       </section>
-      <hr color="red" />
+      <hr color="white" />
       {yearsArrayUpdate.map((year) => (
         <YearStat key={year} year={year} onClick={onClick} />
       ))}

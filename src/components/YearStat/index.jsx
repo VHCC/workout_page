@@ -58,6 +58,7 @@ const YearStat = ({ year, onClick }) => {
   return (
     <div
       style={{ cursor: 'pointer' }}
+      className={styles.yearSection}
       onClick={() => onClick(year)}
       {...eventHandlers}
     >
@@ -73,21 +74,21 @@ const YearStat = ({ year, onClick }) => {
           />
         ))}
         <Stat value={sumDistance} description=" KM" />
-        <Stat
-          value={`${streak} day`}
-          description=" Streak"
-          className="mb0 pb0"
-        />
-        {hasHeartRate && (
-          <Stat value={avgHeartRate} description=" Avg Heart Rate" />
-        )}
+        {/*<Stat*/}
+        {/*  value={`${streak} day`}*/}
+        {/*  description=" Streak"*/}
+        {/*  className="mb0 pb0"*/}
+        {/*/>*/}
+        {/*{hasHeartRate && (*/}
+        {/*  <Stat value={avgHeartRate} description=" Avg Heart Rate" />*/}
+        {/*)}*/}
       </section>
       {hovered && (
         <React.Suspense fallback="loading...">
           <YearSVG className={styles.yearSVG} />
         </React.Suspense>
       )}
-      <hr color="red" />
+      <hr color="white" />
     </div>
   );
 };

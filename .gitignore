@@ -20,3 +20,5 @@ danpalmer.sql
 .idea
 
 config.yaml
+*.db
+*.gpx

@@ -5,6 +5,7 @@ import {
   MUNICIPALITY_CITIES_ARR,
   RUN_TITLES,
   MAIN_COLOR,
+  RUN_COLOR,
   RIDE_COLOR,
   HIKE_COLOR,
   SWIM_COLOR,
@@ -166,7 +167,8 @@ const titleForRun = (run) => {
 const colorFromType = (workoutType) => {
   switch (workoutType) {
     case 'Run':
-      return MAIN_COLOR;
+      // return MAIN_COLOR;
+      return RUN_COLOR;
     case 'Ride':
     case 'Indoor Ride':
       return RIDE_COLOR;

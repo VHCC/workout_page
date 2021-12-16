@@ -11,6 +11,8 @@ const RunRow = ({ runs, run, locateActivity, runIndex, setRunIndex }) => {
 
   const heartRate = run.average_heartrate;
 
+  const activityID = "https://www.strava.com/activities/" + run.run_id;
+
   const type = run.type;
 
   const runTime = formatRunTime(distance,pace);
@@ -37,7 +39,11 @@ const RunRow = ({ runs, run, locateActivity, runIndex, setRunIndex }) => {
       }}
       style={{color: colorFromType(type)}}
     >
-      <td>{run.name}</td>
+      <td>{run.name}
+        <a className="moon-gray b" href={activityID} target="_blank">
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png" border="0" width="20px" height="20px"/>
+        </a>
+      </td>
       <td>{type}</td>
       <td>{distance}</td>
       {pace && <td>{paceParts}</td>}
