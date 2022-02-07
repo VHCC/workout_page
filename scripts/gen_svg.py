@@ -7,7 +7,7 @@ import os
 import sys
 
 import appdirs
-from config import SQL_FILE
+from config import SQL_FILE_GEN
 from gpxtrackposter import (
     circular_drawer,
     github_drawer,
@@ -221,7 +221,7 @@ def main():
     if args.from_db:
         # for svg from db here if you want gpx please do not use --from-db
         # args.type == "grid" means have polyline data or not
-        tracks = loader.load_tracks_from_db(SQL_FILE, args.type == "grid")
+        tracks = loader.load_tracks_from_db(SQL_FILE_GEN, args.type == "grid")
     else:
         tracks = loader.load_tracks(args.gpx_dir)
     if not tracks:
@@ -276,7 +276,9 @@ def main():
 if __name__ == "__main__":
     try:
         # generate svg
+        print("start gen...")
         main()
+        print("done")
     except PosterError as e:
         print(e)
         sys.exit(1)
