@@ -40,19 +40,20 @@ class Generator:
     def sync(self, force: bool = False):
         self.check_access()
 
-        print("Start syncing")
+        print("Start ***STRAVA*** syncing")
         if force:
             filters = {"before": datetime.datetime.utcnow()}
         else:
             last_activity = self.session.query(func.max(Activity.start_date)).scalar()
             if last_activity:
                 last_activity_date = arrow.get(last_activity)
-                last_activity_date = last_activity_date.shift(days=-7)
+                last_activity_date = last_activity_date.shift(days=-30)
                 filters = {"after": last_activity_date.datetime}
             else:
                 filters = {"before": datetime.datetime.utcnow()}
-
         for run_activity in self.client.get_activities(**filters):
+            # print("ele gain:", run_activity.total_elevation_gain)
+            # logging.info(run_activity)
             created = update_or_create_activity(self.session, run_activity)
             if created:
                 sys.stdout.write("+")

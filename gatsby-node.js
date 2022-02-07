@@ -16,6 +16,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       streak: Float
       summary_polyline: String
       source: String
+      ele: Float
     }
   `;
   createTypes(typeDefs);

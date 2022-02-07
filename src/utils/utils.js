@@ -36,15 +36,15 @@ const formatPace = (d) => {
 
 const formatRunTime = (distance,pace) => {
   if (Number.isNaN(distance) || Number.isNaN(pace)) {
-    return '0min';
+    return '0 min';
   }
   const formatPace = (1000.0 / 60.0) * (1.0 / pace);
   const minutes = Math.floor(formatPace * distance);
   if (minutes === 0) {
     const seconds = Math.floor((formatPace * distance - minutes) * 60.0);
-    return seconds + 's';
+    return seconds + ' s';
   }
-  return minutes + 'min';
+  return minutes + ' min';
 };
 
 // for scroll to the map

@@ -21,6 +21,7 @@ const YearStat = ({ year, onClick }) => {
     runs = runs.filter((run) => run.start_date_local.slice(0, 4) === year);
   }
   let sumDistance = 0;
+  let sumElevation = 0;
   let streak = 0;
   let heartRate = 0;
   let heartRateNullCount = 0;
@@ -28,6 +29,7 @@ const YearStat = ({ year, onClick }) => {
 
   runs.forEach((run) => {
     sumDistance += run.distance || 0;
+    sumElevation += run.ele || 0;
     if (run.average_speed) {
       if(workoutsCounts[run.type]){
         var [oriCount, oriAvgSpd, oriDistance] = workoutsCounts[run.type]
@@ -45,6 +47,7 @@ const YearStat = ({ year, onClick }) => {
       streak = Math.max(streak, run.streak);
     }
   });
+  sumElevation = (sumElevation / 1.0).toFixed(1);
   sumDistance = (sumDistance / 1000.0).toFixed(1);
   const hasHeartRate = !(heartRate === 0);
   const avgHeartRate = (heartRate / (runs.length - heartRateNullCount)).toFixed(
@@ -73,6 +76,7 @@ const YearStat = ({ year, onClick }) => {
             /* distance={(count[2]/1000).toFixed(1)} */
           />
         ))}
+        <Stat value={sumElevation} description=" m" />
         <Stat value={sumDistance} description=" KM" />
         {/*<Stat*/}
         {/*  value={`${streak} day`}*/}

@@ -8,6 +8,7 @@ GET_DIR = "activities"
 OUTPUT_DIR = "activities"
 GPX_FOLDER = os.path.join(os.getcwd(), "GPX_OUT")
 SQL_FILE = "../scripts/data.db"
+SQL_FILE_GEN = "scripts/data.db"
 JSON_FILE = "../src/static/activities.json"
 
 # TODO: Move into nike_sync

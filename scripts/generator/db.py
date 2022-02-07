@@ -38,6 +38,7 @@ ACTIVITY_KEYS = [
     "average_heartrate",
     "average_speed",
     "source",
+    "ele",
 ]
 
 
@@ -58,6 +59,7 @@ class Activity(Base):
     average_speed = Column(Float)
     streak = None
     source = Column(String)
+    ele = Column(Float)
 
     def to_dict(self):
         out = {}
@@ -83,6 +85,7 @@ def update_or_create_activity(session, run_activity):
         type = run_activity.type
         if run_activity.type in TYPE_DICT:
             type = TYPE_DICT[run_activity.type]
+        # print("TYPE= ", type)
         if not activity:
             start_point = run_activity.start_latlng
             location_country = getattr(run_activity, "location_country", "")
@@ -115,6 +118,7 @@ def update_or_create_activity(session, run_activity):
                 average_heartrate=run_activity.average_heartrate,
                 average_speed=float(run_activity.average_speed),
                 summary_polyline=run_activity.map.summary_polyline,
+                ele=float(run_activity.total_elevation_gain),
                 # source=run_activity.source,
             )
             session.add(activity)
@@ -128,6 +132,7 @@ def update_or_create_activity(session, run_activity):
             activity.average_heartrate = run_activity.average_heartrate
             activity.average_speed = float(run_activity.average_speed)
             activity.summary_polyline = run_activity.map.summary_polyline
+            activity.ele = float(run_activity.total_elevation_gain)
             # activity.source = run_activity.source
     except Exception as e:
         print(f"something wrong with {run_activity.id}")
@@ -141,6 +146,7 @@ def init_db(db_path):
     engine = create_engine(
         f"sqlite:///{db_path}", connect_args={"check_same_thread": False}
     )
+    print("LOAD DB File ------->>>>>>")
     Base.metadata.create_all(engine)
     session = sessionmaker(bind=engine)
     return session()

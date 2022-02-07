@@ -22,3 +22,5 @@ danpalmer.sql
 config.yaml
 *.db
 *.gpx
+scripts/log.txt
+log.txt

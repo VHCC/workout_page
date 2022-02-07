@@ -11,6 +11,8 @@ const RunRow = ({ runs, run, locateActivity, runIndex, setRunIndex }) => {
 
   const heartRate = run.average_heartrate;
 
+  const ele = run.ele;
+
   const activityID = "https://www.strava.com/activities/" + run.run_id;
 
   const type = run.type;
@@ -46,8 +48,9 @@ const RunRow = ({ runs, run, locateActivity, runIndex, setRunIndex }) => {
       </td>
       <td>{type}</td>
       <td>{distance}</td>
-      {pace && <td>{paceParts}</td>}
-      <td>{heartRate && heartRate.toFixed(0)}</td>
+      {/*{pace && <td>{paceParts}</td>}*/}
+      {/*<td>{heartRate && heartRate.toFixed(0)}</td>*/}
+      <td>{ele}</td>
       <td>{runTime}</td>
       <td className={styles.runDate}>{run.start_date_local}</td>
     </tr>

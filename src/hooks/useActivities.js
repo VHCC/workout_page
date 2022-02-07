@@ -21,6 +21,7 @@ const useActivities = () => {
             streak
             summary_polyline
             source
+            ele
           }
         }
       }
