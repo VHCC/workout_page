@@ -112,3 +112,11 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 
 # Special thanks
 - @[yihong0618](https://github.com/yihong0618) for Awesome [running_page](https://github.com/yihong0618/running_page) , Great Thanks
+
+
+# Noted
+1. pip3 install -r requirements.txt
+2. python scripts/gen_svg.py --from-db --title "Workout" --type github --athlete "Ichen.Chu" --special-distance 10 --special-distance2 20 --special-color yellow --special-color2 red --output assets/github.svg --use-localtime --min-distance 0.5
+3. in scripts > python3 strava_sync.py 75239 9083bcbceb3a29e94f2f27b283f242898af136c2 e39e2d62389003f46bca6e0bbfd90546a7600ab6
+4. python scripts/gen_svg.py --from-db --title "WorkoutGrid" --type grid --athlete "Ichen.Chu"  --output assets/grid.svg --min-distance 10.0 --special-color yellow --special-color2 red --special-distance 20 --special-distance2 40 --use-localtime
+5. yarn develop -H 192.168.1.151 -p 7611
