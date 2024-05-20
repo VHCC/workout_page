@@ -120,3 +120,6 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 3. in scripts > python3 strava_sync.py 75239 9083bcbceb3a29e94f2f27b283f242898af136c2 e39e2d62389003f46bca6e0bbfd90546a7600ab6
 4. python scripts/gen_svg.py --from-db --title "WorkoutGrid" --type grid --athlete "Ichen.Chu"  --output assets/grid.svg --min-distance 10.0 --special-color yellow --special-color2 red --special-distance 20 --special-distance2 40 --use-localtime
 5. yarn develop -H 192.168.1.151 -p 7611
+
+# Noted (docker)
+1. docker run -itd -p 31120:80 --name strava running_page:latest
