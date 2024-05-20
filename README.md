@@ -122,4 +122,5 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 5. yarn develop -H 192.168.1.151 -p 7611
 
 # Noted (docker)
-1. docker run -itd -p 31120:80 --name strava running_page:latest
+1.  docker build -t running_page:latest . --build-arg app=Strava --build-arg client_id="75239"  --build-arg client_secret="9083bcbceb3a29e94f2f27b283f242898af136c2 "  --build-arg refresh_token="e39e2d62389003f46bca6e0bbfd90546a7600ab6"
+2. docker run -itd -p 31120:80 --name strava running_page:latest
